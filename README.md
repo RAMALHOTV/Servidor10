@@ -1,2016 +1,3044 @@
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoRamalhoRamalhoIPTV " pltv-cover="
-https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone=""
-
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
 ################################################################################# Informações da Lista
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
-https://www.youtube.com/channel/UCoj
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
-https://www.youtube.co
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:02/09/2022
-https://www.youtube.c
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RamalhoIPTV 
-https://www.youtube.co
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",Addon RamalhoIPTV
+https://www.youtube.com
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",Mais Informações da Lista entre em contato
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",Atualizado:18/11/2022 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0aRl2a.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Informações da Lista",(44)991045772
 https://www.youtube.com/
 
-#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3426
-#EXTINF:-1 tvg-id="A&E FHD H.265" tvg-name="A&E 4K" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3311
-#EXTINF:-1 tvg-id="A&E FHD H.265" tvg-name="A&E HD" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3427
-#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3430
-#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC 4K" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3312
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3431
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="Animal Planet" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3432
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3313
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3433
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3435
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 4k" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/7079
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3434
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3428
-#EXTINF:-1 tvg-id="AXN FHD H.265" tvg-name="AXN 4K" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6748
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN 4K ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/52100
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/7135
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3441
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6751
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND CAMPINAS 4K" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND CAMPINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57685
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND CAMPINAS HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57686
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND CURITIBA HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57687
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND CURITIBA HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57688
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND GOIANIA" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND GOIANIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57689
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND GOIANIA SD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND GOIANIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57690
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND MINAS 4K" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND MINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58444
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND MINAS HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58443
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3442
-#EXTINF:-1 tvg-id="Band News FHD H.265" tvg-name="BAND NEWS 4K" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",BAND NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3316
-#EXTINF:-1 tvg-id="Band News HD [Alter]" tvg-name="BAND NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3443
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band RJ" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",Band RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57693
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band RJ HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",Band RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57694
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND SP" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3723
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND SP 4K" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND SP 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3317
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="BAND SP HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BAND",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3448
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS 4K" tvg-logo="http://floriu.com/imagem/bandsports.png" group-title="ESPORTE",BAND SPORTS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57697
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://floriu.com/imagem/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3445
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="ESPORTE",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3444
-#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS HD" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3439
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3438
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="BOOMERANG 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIS",BOOMERANG 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3318
-#EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="BOOMERANG HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3437
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://floriu.com/imagem/Bloomberg.png" group-title="INFANTIS",BOOMERANG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3436
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/26961
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/26962
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-do-boi_m.png" group-title="CANAIS ABERTOS",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57727
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY 4K" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3380
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3697
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3698
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6439
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57730
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3319
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3694
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3695
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV FHD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="DOCUMENTARIO",CHEF TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57741
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="DOCUMENTARIO",CHEF TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57742
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 01" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",CINE PIPOCA 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57743
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19384
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23760
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Cine Pipoca 5" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19386
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19387
-#EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="CINEMAX 4K" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3320
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3692
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX SD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3693
-#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil 4K" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/52074
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil HD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/11247
-#EXTINF:-1 tvg-id="Example" tvg-name="CNN Brasil SD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/11246
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Espanhol" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_cnnenespanol1997.jpg" group-title="NOTICIAS",CNN Espanhol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57753
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/br_cnn-international-hd_m.png" group-title="NOTICIAS",CNN Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57754
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3688
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3321
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3687
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3686
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3322
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3685
-#EXTINF:-1 tvg-id="Cultura.br" tvg-name="CULTURA HD" tvg-logo="http://floriu.com/imagem/cultura.png" group-title="CANAIS ABERTOS",CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3779
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6453
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA HD" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6452
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57782
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57783
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57784
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BR" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57785
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DISCOVERY",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3683
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DISCOVERY",DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6008
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DISCOVERY",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3682
-#EXTINF:-1 tvg-id="Discovery Home Health SD" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DISCOVERY",DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3726
-#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DISCOVERY",DISCOVERY HOME & HEALTH 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3326
-#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DISCOVERY",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3781
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3678
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3327
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3677
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DISCOVERY",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3727
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DISCOVERY",DISCOVERY SCIENCE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3328
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DISCOVERY",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3676
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DISCOVERY",DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3728
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DISCOVERY",DISCOVERY THEATER 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3329
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://floriu.com/imagem/Discoverytheater.png" group-title="DISCOVERY",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6800
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="DISCOVERY TLC 4K" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DISCOVERY",DISCOVERY TLC 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57809
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="DISCOVERY TLC HD" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DISCOVERY",DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3782
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="DISCOVERY TLC SD" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DISCOVERY",DISCOVERY TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3729
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DISCOVERY",DISCOVERY TURBO 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3330
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DISCOVERY",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3673
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DISCOVERY",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3674
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DISCOVERY",DISCOVERY WORLD 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3331
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DISCOVERY",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3672
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="DISCOVERY",DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3730
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3731
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6810
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3670
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! 4K" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57838
-#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3663
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3664
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57845
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57854
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57846
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57847
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57848
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57849
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57850
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57851
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57852
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57853
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN 1" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPN",ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3659
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPN",ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46701
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN 1 4K" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPN",ESPN 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46730
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN BRASIL 4K " tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPN",ESPN BRASIL 4K 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/27251
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPN",ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/27260
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN Brasil¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPN",ESPN Brasil¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46726
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPN",ESPN EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18683
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPN",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6067
-#EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN 1 HD" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPN",ESPN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3654
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://img2.gratispng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="ESPN",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46732
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 1" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57870
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 2" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57871
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 3" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57872
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="EVANGELIZAR" tvg-logo="" group-title="RELIGIOSOS",EVANGELIZAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57874
-#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ART 4K" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",FILM & ART 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57875
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film & Arts" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",Film & Arts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3652
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",FILM & ARTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6474
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6476
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6830
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3650
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",FOOD NETWORK 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3338
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://floriu.com/imagem/foodnetwork.png" group-title="DOCUMENTARIO",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3649
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3342
-#EXTINF:-1 tvg-id="FOXSports.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3640
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3641
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4k" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46943
-#EXTINF:-1 tvg-id="FOXSports.br" tvg-name="Fox Sports 4k²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports 4k²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46954
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46955
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46725
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹ HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46921
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃO PLAY" tvg-logo="" group-title="ESPORTE",FURACÃO PLAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57897
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="https://cherto.com.br/wp-content/uploads/2016/11/logo-futura.png" group-title="CANAIS ABERTOS",FUTURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6853
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://cherto.com.br/wp-content/uploads/2016/11/logo-futura.png" group-title="CANAIS ABERTOS",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6852
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3637
-#EXTINF:-1 tvg-id="FX FHD" tvg-name="FX 4K" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3344
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3636
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Gazeta 4K" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="CANAIS ABERTOS",Gazeta 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57906
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57907
-#EXTINF:-1 tvg-id="GLOBO BAHIA" tvg-name="GLOBO BAHIA " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18782
-#EXTINF:-1 tvg-id="GLOBO BAHIA" tvg-name="GLOBO BAHIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/16770
-#EXTINF:-1 tvg-id="GLOBO BRASILIA Regionais" tvg-name="GLOBO BRASILIA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5007
-#EXTINF:-1 tvg-id="GLOBO BRASILIA Regionais" tvg-name="Globo BRASILIA 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo BRASILIA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57911
-#EXTINF:-1 tvg-id="GLOBO BRASILIA Regionais" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5006
-#EXTINF:-1 tvg-id="EPTV CAMPINAS" tvg-name="Globo EPTV Campinas" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5009
-#EXTINF:-1 tvg-id="Globo Eptv Campinas FHD" tvg-name="Globo EPTV CAMPINAS 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV CAMPINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57919
-#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5008
-#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV RIBEIRÃO PRETO 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18736
-#EXTINF:-1 tvg-id="EPTV - SAO CARLOS" tvg-name="GLOBO EPTV SAO CARLOS " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV SAO CARLOS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6862
-#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="Globo EPTV SUL DE MINAS 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV SUL DE MINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57922
-#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="Globo EPTV SUL DE MINAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57923
-#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis SD" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO FLORIANOPOLIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18738
-#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba HD" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTEGRAÇÃO MG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57924
-#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba SD" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTEGRAÇÃO MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57925
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="GLOBO INTER DO VALE FHD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTER DO VALE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57926
-#EXTINF:-1 tvg-id="Inter TV RN - natal" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTER TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5012
-#EXTINF:-1 tvg-id="GLOBO MINAS Regionais" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTER VALE MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57927
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6863
-#EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="Globo Internacional HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57928
-#EXTINF:-1 tvg-id="GLOBO MANAUS" tvg-name="Globo Manaus HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57930
-#EXTINF:-1 tvg-id="GLOBO MINAS Regionais" tvg-name="Globo Mg 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Mg 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57931
-#EXTINF:-1 tvg-id="GLOBO MINAS Regionais" tvg-name="Globo Minas" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57932
-#EXTINF:-1 tvg-id="GLOBO MINAS Regionais" tvg-name="GLOBO MINAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5013
-#EXTINF:-1 tvg-id="GLOBO MINAS Regionais" tvg-name="Globo Minas HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57933
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE" tvg-name="Globo Mirante HD (MARANHAO)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Mirante HD (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57934
-#EXTINF:-1 tvg-id="GLOBO MORENA" tvg-name="Globo Morena HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57935
-#EXTINF:-1 tvg-id="Globo News SD" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5015
-#EXTINF:-1 tvg-id="Globo News FHD" tvg-name="GLOBO NEWS 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="NOTICIAS",GLOBO NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3347
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3743
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5018
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6869
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57938
-#EXTINF:-1 tvg-id="GLOBO BLUMENAL" tvg-name="Globo NSC Blumenau 4k" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo NSC Blumenau 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23776
-#EXTINF:-1 tvg-id="GLOBO BLUMENAL" tvg-name="Globo NSC Santa Catarina HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo NSC Santa Catarina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57939
-#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis SD" tvg-name="Globo NSCTV Florianopolis HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo NSCTV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57940
-#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="Globo RBS CAXIAS 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS CAXIAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57942
-#EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="Globo RBS CAXIAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS CAXIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57943
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo RBS PELOTAS 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS PELOTAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57944
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo RBS PELOTAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS PELOTAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57945
-#EXTINF:-1 tvg-id="GLOBO PORTO ALEGRE" tvg-name="Globo RBS POA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS POA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57946
-#EXTINF:-1 tvg-id="GLOBO PORTO ALEGRE" tvg-name="Globo RBS POA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS POA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57947
-#EXTINF:-1 tvg-id="Globo RBS TV Santa Maria SD" tvg-name="Globo RBS TV STA MARIA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS TV STA MARIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57948
-#EXTINF:-1 tvg-id="Globo TV Rio Sul HD" tvg-name="Globo Rio Sul HD (INTERIOR RJ)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rio Sul HD (INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57949
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5047
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3349
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ 4K (REGIAO SERRANA)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ 4K (REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/52407
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO RJ HD " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18771
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RJ HD (REGIAO SERRANA)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ HD (REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/52409
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA 4K (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC CURITIBA 4K (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58446
-#EXTINF:-1 tvg-id="GLOBO CURITIBA" tvg-name="GLOBO RPC CURITIBA HD (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC CURITIBA HD (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58445
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo RPC FOZ DO IGUAÇU 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RPC FOZ DO IGUAÇU 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57950
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo RPC FOZ DO IGUAÇU HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RPC FOZ DO IGUAÇU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57951
-#EXTINF:-1 tvg-id="Globo RPC TV Paranavai SD" tvg-name="Globo RPC Parana HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RPC Parana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57952
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="Globo RPC TV Curitiba" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RPC TV Curitiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57953
-#EXTINF:-1 tvg-id="Globo TV Santa Cruz HD" tvg-name="Globo Santa Cruz Bahia HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Santa Cruz Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57954
-#EXTINF:-1 tvg-id="GLOBO TV SERGIPE" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6879
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="GLOBO SP" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5030
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="GLOBO SP 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3350
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="GLOBO SP HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5029
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="Globo TRIBUNA 4K (SANTOS)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TRIBUNA 4K (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57956
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="Globo TRIBUNA HD (SANTOS)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TRIBUNA HD (SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57957
-#EXTINF:-1 tvg-id="GLOBO BAHIA" tvg-name="Globo Bahia 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Bahia 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23793
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Globo Asa branca 4K (Caruaru PE)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Asa branca 4K (Caruaru PE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/7074
-#EXTINF:-1 tvg-id="Globo Centro America Cuiaba HD" tvg-name="GLOBO TV CENTRO AMÉRICA CUIABÁ " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV CENTRO AMÉRICA CUIABÁ 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18783
-#EXTINF:-1 tvg-id="TV DI RIO FORTALEZA e NATAL" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58389
-#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas SD" tvg-name="Globo TV Gazeta 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Gazeta 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23802
-#EXTINF:-1 tvg-id="GLOBO BELEM" tvg-name="Globo TV Liberal Belém HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23806
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE" tvg-name="Globo TV Mirante (MARANHAO)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Mirante (MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23807
-#EXTINF:-1 tvg-id="GLOBO MORENA" tvg-name="Globo TV Morena" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Morena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23808
-#EXTINF:-1 tvg-id="Globo TV Subae SD" tvg-name="Globo TV Subae" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Subae
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57958
-#EXTINF:-1 tvg-id="TV BAURU" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM BAURU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6885
-#EXTINF:-1 tvg-id="Globo Sorocaba HD" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3751
-#EXTINF:-1 tvg-id="Globo TV Vanguarda HD" tvg-name="Globo VANGUARDA 4K (SAO JOSE DOS CAMPOS)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo VANGUARDA 4K (SAO JOSE DOS CAMPOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57959
-#EXTINF:-1 tvg-id="Globo TV Vanguarda SD" tvg-name="Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57960
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="Globo Verdes Mares HD CE" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Verdes Mares HD CE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57961
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",Gloob
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3617
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB 4K" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6892
-#EXTINF:-1 tvg-id="Gloob SD" tvg-name="GLOOB HD" tvg-logo="http://floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3616
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO 4K" tvg-logo="" group-title="INFANTIS",GLOOBINHO 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57968
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="INFANTIS",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/26963
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="" group-title="INFANTIS",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57970
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT 4K" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57971
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3613
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3614
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="" group-title="INFANTIS",Gospel Cartoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57976
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 4K" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3352
-#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3612
-#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 SD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3757
-#EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 4K" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3353
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4039
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4033
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3354
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57993
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO FAMILY" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4034
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6164
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4040
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4041
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ( LENGENDADOS)" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD ( LENGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57995
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="HBO MAX",HBO MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58471
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="HBO MAX",HBO MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58472
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="HBO MAX",HBO MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58473
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18841
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4k" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18842
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4K ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 4K ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57998
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18843
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58000
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4035
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS 4K" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3355
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD  ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS FHD  ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58004
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4042
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58006
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18814
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18848
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K ( LEGENDADOS )" tvg-logo="" group-title="REDE HBO",HBO POP 4K ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58010
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18849
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58012
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4037
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4038
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3356
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58017
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4044
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58019
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD ( LEGENDADOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREAM HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58021
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME " tvg-logo="http://floriu.com/imagem/HBOXTREME.png" group-title="REDE HBO",HBO XTREME 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18844
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58022
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme 4K " tvg-logo="" group-title="REDE HBO",HBO Xtreme 4K 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58023
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K ( LEGENDADOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME 4K ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58024
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO XTREME HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18846
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIO",HGTV  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3725
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIO",HGTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3325
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIO",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6788
-#EXTINF:-1 tvg-id="History FHD" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3357
-#EXTINF:-1 tvg-id="History HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3790
-#EXTINF:-1 tvg-id="History SD" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3480
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY 4k" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DISCOVERY",ID - INVESTIGACAO DISCOVERY 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3358
-#EXTINF:-1 tvg-id="Investigacao Discovery HD" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://floriu.com/imagem/id.png" group-title="DISCOVERY",ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3791
-#EXTINF:-1 tvg-id="Investigacao Discovery SD" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DISCOVERY",ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3761
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18834
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME 4K" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6182
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3592
-#EXTINF:-1 tvg-id="" tvg-name="Loading." tvg-logo="" group-title="MUSICAS E VARIEDADE",Loading.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58055
-#EXTINF:-1 tvg-id="Megapix SD" tvg-name="MegaPix" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MegaPix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3583
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3360
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6531
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/5085
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV 4K" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6206
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3793
-#EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",Multishow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3579
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3363
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3578
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://floriu.com/imagem/musicboxbr.png" group-title="MUSICAS E VARIEDADE",MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18861
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4k" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NATGEO 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18864
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="NatGeo HD" tvg-logo="http://floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NatGeo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3367
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NatGeo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3571
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3573
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO WILD 4K" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3366
-#EXTINF:-1 tvg-id="Nat Geo HD [Alter]" tvg-name="NATGEO WILD HD" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3572
-#EXTINF:-1 tvg-id="" tvg-name="NHK 4K (JAPONES)" tvg-logo="" group-title="NOTICIAS",NHK 4K (JAPONES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58095
-#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="" group-title="NOTICIAS",NHK HD (JAPONES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58096
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3567
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR 4K" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3368
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3566
-#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-name="Nickelodeon" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3565
-#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON 4k" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18886
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3564
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="NOVO TEMPO" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3763
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3563
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF 4K" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58109
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3562
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3561
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://floriu.com/imagem/paramouth.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3369
-#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="PARAMOUNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3560
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="https://logospng.org/download/polishop/logo-polishop-1536.png" group-title="CANAIS ABERTOS",POLISHOP TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58130
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV HD" tvg-logo="https://logospng.org/download/polishop/logo-polishop-1536.png" group-title="CANAIS ABERTOS",POLISHOP TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58131
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE CLUBE",PREMIERE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4059
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 4K" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE CLUBE",PREMIERE 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58139
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE CLUBE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4053
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE CLUBE",PREMIERE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4060
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 4K" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE CLUBE",PREMIERE 3 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58142
-#EXTINF:-1 tvg-id="Example" tvg-name="PREMIERE 3 HD" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE CLUBE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4054
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE CLUBE",PREMIERE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4061
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 4K" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE CLUBE",PREMIERE 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58145
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE CLUBE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4055
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE CLUBE",PREMIERE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4062
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 4K" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE CLUBE",PREMIERE 5 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58148
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE CLUBE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6563
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE CLUBE",PREMIERE 6 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4063
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 4K" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE CLUBE",PREMIERE 6 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58151
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE CLUBE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6565
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE CLUBE",PREMIERE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4064
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE CLUBE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6567
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 MOSAICO" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE CLUBE",PREMIERE 8 MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58157
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes 1 (H265)" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",Premiere Clubes 1 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58133
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3375
-#EXTINF:-1 tvg-id="Example" tvg-name="PREMIERE CLUBES 4K 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES 4K 1 (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58135
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K 1 ²(S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",Premiere Clubes 4K 1 ²(S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58134
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES HD 1" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19381
-#EXTINF:-1 tvg-id="Example" tvg-name="PREMIERE CLUBES HD 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES HD 1 (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58136
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="PREMIERE CLUBES SD 1 (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE CLUBE",PREMIERE CLUBES SD 1 (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58137
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX MUSIC" tvg-logo="" group-title="MUSICAS E VARIEDADE",PRIME BOX MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58165
-#EXTINF:-1 tvg-id="Example" tvg-name="RECORD BAHIA" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58169
-#EXTINF:-1 tvg-id="Example" tvg-name="RECORD BAHIA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58170
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELÉM HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BELÉM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58172
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELÉM HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BELÉM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58173
-#EXTINF:-1 tvg-id="Record 4K" tvg-name="RECORD BRASILIA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58175
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record Campinas" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23816
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Campinas HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23815
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goias (Goiania)" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Goias (Goiania)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23828
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MANAUS" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MANAUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58181
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58442
-#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD MINAS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6299
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="Record News" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3527
-#EXTINF:-1 tvg-id="Record News HD" tvg-name="RECORD NEWS 4K" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",RECORD NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3377
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3526
-#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD PARANA 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD PARANA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58187
-#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD PARANA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58188
-#EXTINF:-1 tvg-id="Record RJ SD" tvg-name="Record RJ" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23824
-#EXTINF:-1 tvg-id="Record RJ HD" tvg-name="RECORD RJ 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD RJ 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58189
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/23823
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/35050
-#EXTINF:-1 tvg-id="Record RS SD" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58190
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD" tvg-logo="http://jrlook.fun:80/Floriu/Fontetoop/81" group-title="RECORD",RECORD RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/35051
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA" tvg-logo="" group-title="RECORD",RECORD SANTA CATARINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58191
-#EXTINF:-1 tvg-id="Example" tvg-name="Record SP" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3522
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP 4K" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record SP 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6292
-#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-name="RECORD SP FHD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58193
-#EXTINF:-1 tvg-id="Record SP HD" tvg-name="RECORD SP HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3523
-#EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-name="RECORD TV" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58195
-#EXTINF:-1 tvg-id="" tvg-name="RECORD UBERLÂNDIA MG" tvg-logo="" group-title="RECORD",RECORD UBERLÂNDIA MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58196
-#EXTINF:-1 tvg-id="GLOBO AMAZONAS" tvg-name="REDE AMAZONICA 4K (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",REDE AMAZONICA 4K (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58197
-#EXTINF:-1 tvg-id="GLOBO AMAZONAS" tvg-name="REDE AMAZONICA HD (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",REDE AMAZONICA HD (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58198
-#EXTINF:-1 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="CANAIS ABERTOS",Rede Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58200
-#EXTINF:-1 tvg-id="Rede Minas" tvg-name="REDE MINAS" tvg-logo="http://floriu.com/imagem/redeminas.png" group-title="CANAIS ABERTOS",REDE MINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18096
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="CANAIS ABERTOS",REDE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58202
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV HD" tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58205
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV! 4K" tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",Rede TV! 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58206
-#EXTINF:-1 tvg-id="RedeTVBrasil.br" tvg-name="REDETV PAMPA RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="CANAIS ABERTOS",REDETV PAMPA RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58399
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS ABERTOS",Rede TV!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58208
-#EXTINF:-1 tvg-id="Globo RPC Cascavel SD" tvg-name="RPC CASCAVEL 4K ( S1 )" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",RPC CASCAVEL 4K ( S1 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58213
-#EXTINF:-1 tvg-id="Globo RPC Cascavel SD" tvg-name="RPC CASCAVEL HD (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",RPC CASCAVEL HD (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58214
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58224
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT ARATU BAHIA" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT ARATU BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58227
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-name="SBT BSB" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT BSB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58228
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT PARANA" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT PARANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58229
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-name="SBT PARANA FHD" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT PARANA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58230
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58231
-#EXTINF:-1 tvg-id="SBTRJ.br" tvg-name="SBT RJ 4K" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT RJ 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58232
-#EXTINF:-1 tvg-id="SBTRJ.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58233
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-name="SBT RS " tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT RS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58234
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3515
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP 4k" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT SP 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/18956
-#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3513
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT TV TAMBAU" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="SBT",SBT TV TAMBAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58404
-#EXTINF:-1 tvg-id="SescTV" tvg-name="SESC TV" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="CANAIS ABERTOS",SESC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58209
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 01" tvg-logo="" group-title="CINE SKY",SKY PLAY 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58241
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 02" tvg-logo="" group-title="CINE SKY",SKY PLAY 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58242
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 03" tvg-logo="" group-title="CINE SKY",SKY PLAY 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58243
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 04" tvg-logo="" group-title="CINE SKY",SKY PLAY 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58244
-#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 05" tvg-logo="" group-title="CINE SKY",SKY PLAY 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58245
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3511
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="SPACE 4K" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3381
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3510
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SPORTV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3382
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 4K (S1) " tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SPORTV 2 4K (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58267
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3507
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58268
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="SPORTV",SPORTV 3 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58269
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="SPORTV",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58270
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="SPORTV",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58271
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTv 4 (H.265) (S1) " tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SporTv 4 (H.265) (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58272
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 4K (S1) " tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SPORTV 4 4K (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58273
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 HD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SPORTV 4 HD (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58274
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 SD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SPORTV 4 SD (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58275
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="SPORTV",SPORTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46536
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SporTV 4K (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58264
-#EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="SPORTV",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46723
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV HD (S1) ²" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="SPORTV",SPORTV HD (S1) ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58265
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="SPORTV",SPORTV SD (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58266
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 (H265) (S1) " tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="SPORTV",SporTV2 (H265) (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58276
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 (H265) (S1)" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="SPORTV",SporTV3 (H265) (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58277
-#EXTINF:-1 tvg-id="" tvg-name="STAR +" tvg-logo="" group-title="STAR +",STAR +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58475
-#EXTINF:-1 tvg-id="" tvg-name="STAR + (2)" tvg-logo="" group-title="STAR +",STAR + (2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58476
-#EXTINF:-1 tvg-id="" tvg-name="STAR + (3)" tvg-logo="" group-title="STAR +",STAR + (3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58477
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel 4K" tvg-logo="" group-title="FILMES E SERIES",Star Channel 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58279
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58281
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58282
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58283
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58284
-#EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 (H265)" tvg-logo="" group-title="FILMES E SERIES",Star Hits 2 (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58286
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 FHD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58287
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 SD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58291
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS FHD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58292
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS HD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58294
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS SD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58296
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE 4K" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58297
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE HD" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58298
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE SD" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58299
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3502
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3385
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3501
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3500
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY 4K" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3386
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3499
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3498
-#EXTINF:-1 tvg-id="" tvg-name="TBS 4K" tvg-logo="" group-title="FILMES E SERIES",TBS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58312
-#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3497
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3496
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3495
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4021
-#EXTINF:-1 tvg-id="Telecine Action FHD" tvg-name="TELECINE ACTION 4K" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3387
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD  ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE ACTION FHD  ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58319
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4027
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4022
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT 4K" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3388
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD ( LEGENDADOS)" tvg-logo="" group-title="REDE TELECINE",TELECINE CULT FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58325
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE CULT HD" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4028
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE CULT HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58327
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="TELECINE FUN" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4023
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN 4K" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3389
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE FUN FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58331
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4029
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE FUN HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58333
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="TELECINE PIPOCA" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4024
-#EXTINF:-1 tvg-id="Telecine Pipoca FHD" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3390
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PIPOCA FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58338
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4030
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4025
-#EXTINF:-1 tvg-id="Telecine Premium FHD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3391
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PREMIUM FHD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58345
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4031
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PREMIUM HD ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58347
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4026
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3392
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD ( LEGENDADOS)" tvg-logo="" group-title="REDE TELECINE",TELECINE TOUCH FHD ( LEGENDADOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58351
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4032
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH 4K ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE TOUCH 4K ( LEGENDADOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58353
-#EXTINF:-1 tvg-id="Terra Viva SD" tvg-name="TERRA VIVA" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo-2.png" group-title="CANAIS ABERTOS",TERRA VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58355
-#EXTINF:-1 tvg-id="" tvg-name="TMC 4K" tvg-logo="" group-title="FILMES E SERIES",TMC 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58359
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46928
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46717
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/46716
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3774
-#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT SERIES 4K" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3394
-#EXTINF:-1 tvg-id="TNT Series HD" tvg-name="TNT SERIES HD" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3802
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3473
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST 4K" tvg-logo="" group-title="INFANTIS",TOONCAST 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58371
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6389
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58372
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD" tvg-logo="" group-title="INFANTIS",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58373
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRAVEL BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58374
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRU TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58376
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRU TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58377
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA) (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA) (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58378
-#EXTINF:-1 tvg-id="GloboBrasil.br" tvg-name="TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA) (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA) (S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58379
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="" group-title="RELIGIOSOS",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58382
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL  4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/57368
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58383
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58384
-#EXTINF:-1 tvg-id="GLOBO CUIABA" tvg-name="TV Centro America Cuiaba" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Centro America Cuiaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58386
-#EXTINF:-1 tvg-id="Cultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS",TV Cultura
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/17751
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS ABERTOS",TV Câmara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/17806
-#EXTINF:-1 tvg-id="TV Escola SD" tvg-name="Tv Escola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="CANAIS ABERTOS",Tv Escola
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58390
-#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES HD" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2019/04/og-tvgideoes.jpg" group-title="RELIGIOSOS",TV GIDEOES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58392
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV JUSTICA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-justica_m.png" group-title="CANAIS ABERTOS",TV JUSTICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58393
-#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="TV Liberal Belem 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Liberal Belem 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58394
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19035
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="" group-title="RELIGIOSOS",TV PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58398
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58400
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://floriu.com/imagem/ratimbum.jpg" group-title="INFANTIS",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/19038
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58401
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58402
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-senado-hd_m.png" group-title="CANAIS ABERTOS",TV Senado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58403
-#EXTINF:-1 tvg-id="TVTEMSorocaba.br" tvg-name="TV Tem Sorocaba (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Tem Sorocaba (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58407
-#EXTINF:-1 tvg-id="Globo TV Vanguarda FHD" tvg-name="TV Vanguarda HD(S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Vanguarda HD(S1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58409
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="TV Verdes Mares Fortaleza (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Verdes Mares Fortaleza (S1) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58410
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3395
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3714
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3713
-#EXTINF:-1 tvg-id="" tvg-name="Universal Tv (H265)" tvg-logo="" group-title="RELIGIOSOS",Universal Tv (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58413
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3710
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA 4K" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3396
-#EXTINF:-1 tvg-id="Viva SD" tvg-name="VIVA HD" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3709
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3708
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6407
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/3707
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6641
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo 4K" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",Woohoo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58429
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/6640
-#EXTINF:-1 tvg-id="ZooMoo.br" tvg-name="ZOOMO 4K" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",ZOOMO 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/58437
-#EXTINF:-1 tvg-id="ZooMoo.br" tvg-name="Zoomoo HD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4969
-#EXTINF:-1 tvg-id="ZooMoo.br" tvg-name="Zoomoo SD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/4970
-#EXTINF:-1 tvg-id="" tvg-name="JP NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="NOTICIAS",JP NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62492
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JP NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="NOTICIAS",JP NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62493
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 12" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62649
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 13" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62650
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 14" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62651
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 15" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62652
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 16" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62653
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 17" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62654
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 18" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62655
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 19" tvg-logo="" group-title="ELEVEN SPORT",Eleven Sports HD 19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62656
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62657
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62658
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62659
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62660
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62661
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62662
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 4k" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62663
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62664
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62665
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 FHD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62666
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 HD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62667
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 SD" tvg-logo="https://www.conmebol.com/wp-content/uploads/2020/03/logo-nueva-conmebol-750px_0_1_0.jpg" group-title="CONMEBOL",Conmebol 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62668
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol 6 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62669
-#EXTINF:-1 tvg-id="" tvg-name="Apresentando os Ricardos" tvg-logo="https://media.fstatic.com/iNsKj_LFuAYKQcjOEGY7oR9PhF4=/210x312/smart/media/movies/covers/2021/12/Poster_Atualizado_Being_The_Ricardos_Filme_2021.jpg" group-title="FILMES ( DRAMA )",Apresentando os Ricardos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Halloween Kills - O Terror Continua" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/06/28/13/19/4959159.jpg" group-title="FILMES ( TERROR )",Halloween Kills - O Terror Continua
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matrix Resurrections [Cinema]" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/12/06/22/05/3298637.jpg" group-title="FILMES ( FICCAO )",Matrix Resurrections [Cinema]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistério na TV - Um Assassinato" tvg-logo="https://ottvsimg.ottvs.com.br/cov/so.169393/0169393_335.jpg" group-title="FILMES ( SUSPENSE )",Mistério na TV - Um Assassinato
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal, mas Pouco" tvg-logo="https://noticiasetecnologia.com/wp-content/uploads/2021/12/Natal-mas-Pouco-1.jpg" group-title="FILMES ( COMEDIA )",Natal, mas Pouco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Não Olhe para Cima" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/12/06/21/17/3973076.jpg" group-title="FILMES ( COMEDIA )",Não Olhe para Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Armário" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/14/02/20/14/33/028866.jpg" group-title="FILMES ( TERROR )",O Armário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Brilho do Natal" tvg-logo="https://ottvsimg.ottvs.com.br/cov/so.216193/0216193_335.jpg" group-title="FILMES ( ROMANCE )",O Brilho do Natal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Natal de União" tvg-logo="https://images.euassisti.com.br/images/0212992_0.jpeg?width=0&height=450" group-title="FILMES ( ROMANCE )",Um Natal de União
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/62695.mp4
-#EXTINF:-1 tvg-id="TV Diario SD" tvg-name="Tv Diario SD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Tv Diario SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62963
-#EXTINF:-1 tvg-id="Globo 4k" tvg-name="TV A Plateia HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV A Plateia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62966
-#EXTINF:-1 tvg-id="Globo TV Anhanguera SD" tvg-name="TV ANHANGUERA ANAPOLIS FHD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA ANAPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62967
-#EXTINF:-1 tvg-id="Globo TV Anhanguera SD" tvg-name="TV ANHANGUERA ANAPOLIS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA ANAPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62968
-#EXTINF:-1 tvg-id="Globo TV Anhanguera SD [Alter]" tvg-name="TV ANHANGUERA CATALAO FHD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA CATALAO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62969
-#EXTINF:-1 tvg-id="Globo TV Anhanguera HD [Alter]" tvg-name="TV ANHANGUERA CATALAO HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA CATALAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62970
-#EXTINF:-1 tvg-id="Globo TV Anhanguera HD [Alter]" tvg-name="TV ANHANGUERA ITUMBIARA FHD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA ITUMBIARA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62971
-#EXTINF:-1 tvg-id="Globo TV Anhanguera SD" tvg-name="TV ANHANGUERA ITUMBIARA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV ANHANGUERA ITUMBIARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/62972
-#EXTINF:-1 tvg-id="" tvg-name="Procurar e Destruir" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/04/19/19/33/2237910.png" group-title="FILMES ( LANÇAMENTOS )",Procurar e Destruir
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hilda E O Rei Da Montanha" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/12/10/20/57/0277449.jpg" group-title="FILMES ( LANÇAMENTOS )",Hilda E O Rei Da Montanha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Procurar e Destruir [ Leg ]" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/04/19/19/33/2237910.png" group-title="FILMES ( LEGENDADOS )",Procurar e Destruir [ Leg ]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Retrospectiva Record (2021)" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/04/19/19/33/2237910.png" group-title="FILMES ( BIOGRAFIA )",Retrospectiva Record (2021)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Retrospectiva SBT (2021)" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/04/19/19/33/2237910.png" group-title="FILMES ( BIOGRAFIA )",Retrospectiva SBT (2021)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="South Park Pós-Covid" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/12/29/18/39/2752181.jpg" group-title="FILMES ( LANÇAMENTOS )",South Park Pós-Covid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="South Park Pós-Covid A Volta Da Covid" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/12/29/18/39/2752181.jpg" group-title="FILMES ( LANÇAMENTOS )",South Park Pós-Covid A Volta Da Covid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zone 414" tvg-logo="https://cinema10.com.br/upload/filmes/filmes_15380_zone%20414.jpg?default=poster" group-title="FILMES ( LANÇAMENTOS )",Zone 414
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/movie/suelene/102030/63428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #1" tvg-logo="" group-title="COPA REGIONAIS",Copa Carioca #1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69551
-#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #2" tvg-logo="" group-title="COPA REGIONAIS",Copa Carioca #2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69552
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1" tvg-logo="" group-title="COPA REGIONAIS",Copa Catarinense 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69553
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 2" tvg-logo="" group-title="COPA REGIONAIS",Copa Catarinense 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69554
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 3" tvg-logo="" group-title="COPA REGIONAIS",Copa Catarinense 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69555
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #1" tvg-logo="" group-title="COPA REGIONAIS",Copa do Nordeste 2020 #1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69556
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #2" tvg-logo="" group-title="COPA REGIONAIS",Copa do Nordeste 2020 #2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69557
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CATARINENSE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69558
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CATARINENSE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69559
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CATARINENSE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69560
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CATARINENSE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69561
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO SERGIPANO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69562
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 2" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO SERGIPANO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69563
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CARIOCA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69564
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO CARIOCA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69565
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 1" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO BAIANO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69566
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 2" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO BAIANO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69567
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="" group-title="COPA REGIONAIS",COPA DO NORDESTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69568
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="" group-title="COPA REGIONAIS",COPA DO NORDESTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69569
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO PARANAENSE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69570
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2" tvg-logo="" group-title="COPA REGIONAIS",CAMPEONATO PARANAENSE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/69571
-#EXTINF:-1 tvg-id="" tvg-name="CAMP. MINEIRO 1" tvg-logo="" group-title="COPA REGIONAIS",CAMP. MINEIRO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70845
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD" tvg-logo="" group-title="HBO MAX",HBO MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70846
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 1 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70847
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 10 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70848
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 2 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70849
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 3 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70850
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 4 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70851
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 5 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70852
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 6 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70853
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 7 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70854
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 8 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70855
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORT",ELEVEN SPORTS 9 (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70856
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 4 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70857
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 5 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70858
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 6 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70859
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 1 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70860
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 2 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70861
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 3 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70862
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 4 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70863
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 5 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70864
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 6 HD (ALTERNATIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/70865
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE SD" tvg-logo="https://e7.pngegg.com/pngimages/349/690/png-clipart-logo-france-tv5monde-information-france-television-blue.png" group-title="ESPORTE",TV5 MONDE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71624
-#EXTINF:-1 tvg-id="" tvg-name="TVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71625
-#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71626
-#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71627
-#EXTINF:-1 tvg-id="" tvg-name="Up Channel HD" tvg-logo="https://static.wixstatic.com/media/8b5001_faf5b5c4681248eb8b6c4ae1e3eaa91c~mv2.png/v1/fit/w_2500,h_1330,al_c/8b5001_faf5b5c4681248eb8b6c4ae1e3eaa91c~mv2.png" group-title="MUSICAS E VARIEDADE",Up Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71630
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD" tvg-logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/103/original/urban-docspng.png" group-title="DOCUMENTARIO",URBAN DOCS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71631
-#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD" tvg-logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/104/original/urban-kidspng.png" group-title="INFANTIS",URBAN KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71632
-#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://urbantv.com.br/canais/logo-urbanmovies.jpg" group-title="FILMES E SERIES",URBAN MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71633
-#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://cst.net.br/wp-content/uploads/2021/06/urban-series.png" group-title="FILMES E SERIES",URBAN SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71634
-#EXTINF:-1 tvg-id="" tvg-name="XXX - FOR MAN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/formanb.png" group-title="XX + 18 XX",XXX - FOR MAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71645
-#EXTINF:-1 tvg-id="PLBOYHD" tvg-name="XXX PLAYBOY TV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="XX + 18 XX",XXX PLAYBOY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71647
-#EXTINF:-1 tvg-id="PLBOYHD" tvg-name="XXX PLAYBOY TV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="XX + 18 XX",XXX PLAYBOY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71648
-#EXTINF:-1 tvg-id="Example" tvg-name="XXX SEXY HOT SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sexyhotb.png" group-title="XX + 18 XX",XXX SEXY HOT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71651
-#EXTINF:-1 tvg-id="" tvg-name="XXX SEXY PRIVE 4K" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0f2068031348e8918c7_Sexprive.png" group-title="XX + 18 XX",XXX SEXY PRIVE 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71652
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPN",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71783
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 4k" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPN",ESPN 2 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71784
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 4k" tvg-logo="https://img2.gratispng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="ESPN",ESPN 3 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71785
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://img2.gratispng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="ESPN",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71786
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4k" tvg-logo="https://www.oi.com.br/publicV2/channels/espn-4.png" group-title="ESPN",ESPN 4 4k
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71787
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://www.oi.com.br/publicV2/channels/espn-4.png" group-title="ESPN",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71788
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://www.oi.com.br/publicV2/channels/espn-4.png" group-title="ESPN",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/71789
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 1" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72183
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 2" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72184
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 3" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72185
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 4" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72186
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 5" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72187
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max Champions League 6" tvg-logo="" group-title="HBO MAX",HBO Max Champions League 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72188
-#EXTINF:-1 tvg-id="" tvg-name="Star+ 1" tvg-logo="" group-title="STAR +",Star+ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72189
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="" group-title="STAR +",STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72191
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="" group-title="STAR +",STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72192
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="" group-title="STAR +",STAR+ 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72193
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="" group-title="STAR +",STAR+ 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72194
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="" group-title="STAR +",STAR+ 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/72195
-#EXTINF:-1 tvg-id="" tvg-name="CAMP. MINEIRO 1" tvg-logo="" group-title="COPA REGIONAIS",CAMP. MINEIRO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73166
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD" tvg-logo="" group-title="HBO MAX",HBO MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73167
-#EXTINF:-1 tvg-id="" tvg-name="Euro News Inglês" tvg-logo="" group-title="ESPORTE",Euro News Inglês
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73168
-#EXTINF:-1 tvg-id="" tvg-name="Euro News Espanhol" tvg-logo="" group-title="ESPORTE",Euro News Espanhol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73169
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="ESPORTE",FLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73170
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61IiQQTceQL.png" group-title="AMAZON PRIME JOGO",AMAZON PRIME JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73171
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61IiQQTceQL.png" group-title="AMAZON PRIME JOGO",AMAZON PRIME JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73172
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61IiQQTceQL.png" group-title="AMAZON PRIME JOGO",AMAZON PRIME JOGO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73173
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61IiQQTceQL.png" group-title="AMAZON PRIME JOGO",AMAZON PRIME JOGO 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73174
-#EXTINF:-1 tvg-id="MaisGlobosat.br" tvg-name="Mais Globosat FHD" tvg-logo="" group-title="MUSICAS E VARIEDADE",Mais Globosat FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73794
-#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="Mais Globosat HD" tvg-logo="" group-title="MUSICAS E VARIEDADE",Mais Globosat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73795
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="" group-title="MUSICAS E VARIEDADE",Mais Globosat SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/73796
-#EXTINF:-1 tvg-id="" tvg-name="NBA 1" tvg-logo="" group-title="NBA",NBA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74242
-#EXTINF:-1 tvg-id="" tvg-name="NBA 2" tvg-logo="" group-title="NBA",NBA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74243
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3" tvg-logo="" group-title="NBA",NBA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74244
-#EXTINF:-1 tvg-id="" tvg-name="NBA 4" tvg-logo="" group-title="NBA",NBA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74245
-#EXTINF:-1 tvg-id="" tvg-name="NBA 5" tvg-logo="" group-title="NBA",NBA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74246
-#EXTINF:-1 tvg-id="" tvg-name="NBA 6" tvg-logo="" group-title="NBA",NBA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74247
-#EXTINF:-1 tvg-id="" tvg-name="NBA 7" tvg-logo="" group-title="NBA",NBA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74248
-#EXTINF:-1 tvg-id="" tvg-name="NBA 8" tvg-logo="" group-title="NBA",NBA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/74249
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 01" tvg-logo="" group-title="FILMES E SERIES",Prime Video 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/76512
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 02" tvg-logo="" group-title="FILMES E SERIES",Prime Video 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/76513
-#EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="GLOBO SUDOESTE BAHIA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SUDOESTE BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79415
-#EXTINF:-1 tvg-id="" tvg-name="24h Cavalo de Fogo" tvg-logo="" group-title="24 HORAS",24h Cavalo de Fogo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79417
-#EXTINF:-1 tvg-id="" tvg-name="24H Cozinha pratica" tvg-logo="" group-title="24 HORAS",24H Cozinha pratica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79418
-#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="" group-title="24 HORAS",24h Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79419
-#EXTINF:-1 tvg-id="" tvg-name="24h Trap" tvg-logo="" group-title="24 HORAS",24h Trap
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79421
-#EXTINF:-1 tvg-id="" tvg-name="BACKARDIGANS 2 24hs" tvg-logo="" group-title="24 HORAS",BACKARDIGANS 2 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79423
-#EXTINF:-1 tvg-id="" tvg-name="BACKARDIGANS 24hs" tvg-logo="" group-title="24 HORAS",BACKARDIGANS 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79424
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="24 HORAS",BEN 10 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79425
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="24 HORAS",BOB ESPONJA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79426
-#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="24 HORAS",CAO CORAGEM 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79427
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="24 HORAS",Caverna do Dragão 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79428
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="24 HORAS",Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79429
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="24 HORAS",Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79430
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="24 HORAS",Digimon 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79432
-#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="24 HORAS",ALADIN 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79433
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="24 HORAS",As Meninas Superpoderosas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79434
-#EXTINF:-1 tvg-id="" tvg-name="AUTHENTIC GAMES 24hs" tvg-logo="" group-title="24 HORAS",AUTHENTIC GAMES 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79435
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="24 HORAS",CENTRAL KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79436
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="24 HORAS",Chapolin Colorado 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79437
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="24 HORAS",CHAVES DESENHO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79438
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title="24 HORAS",CINE KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79439
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="24 HORAS",DRAGON BALL 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79440
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="24 HORAS",DRAGON BALL SUPER 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79441
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="24 HORAS",HOMEM ARANHA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79444
-#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="24 HORAS",Hércules 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79445
-#EXTINF:-1 tvg-id="" tvg-name="Jaclkie Chan 24hs" tvg-logo="" group-title="24 HORAS",Jaclkie Chan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79447
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="24 HORAS",Jaspion 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79448
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="24 HORAS",JIRAYA O Incrível Ninja 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79449
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="24 HORAS",Kenan e Kel 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79450
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="24 HORAS",Luluzinha 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79451
-#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="24 HORAS",Medabots 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79452
-#EXTINF:-1 tvg-id="" tvg-name="Megabots 24hs" tvg-logo="" group-title="24 HORAS",Megabots 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79453
-#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="24 HORAS",MegaMan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79454
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Gumball 24hs" tvg-logo="" group-title="24 HORAS",O Fantástico Mundo de Gumball 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79455
-#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="24 HORAS",O MASKARA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79456
-#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="24 HORAS",OS CAVALEIROS DO ZODIACO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79457
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="24 HORAS",OS FLINTSTONES 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79458
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="24 HORAS",OS SIMPSONS 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79459
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="24 HORAS",Os Vingadores 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79460
-#EXTINF:-1 tvg-id="" tvg-name="Padrinhos Magicos 24HS" tvg-logo="" group-title="24 HORAS",Padrinhos Magicos 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79461
-#EXTINF:-1 tvg-id="" tvg-name="Peixonautas 24 HRS" tvg-logo="" group-title="24 HORAS",Peixonautas 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79462
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="24 HORAS",PERNALONGA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79463
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="24 HORAS",PICA PAU 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79464
-#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="24 HORAS",Pink-e-Cerebro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79465
-#EXTINF:-1 tvg-id="" tvg-name="Pinky e o Cérebro 24HS" tvg-logo="" group-title="24 HORAS",Pinky e o Cérebro 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79466
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="24 HORAS",POKEMON 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79467
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="24 HORAS",Popeye O Marinheiro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79468
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="24 HORAS",Super Choque 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79469
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="24 HORAS",Thundercats 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79470
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="24 HORAS",TIMAO E PUMBA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79471
-#EXTINF:-1 tvg-id="" tvg-name="TLC (H265)" tvg-logo="" group-title="24 HORAS",TLC (H265)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79472
-#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="24 HORAS",Tres Espias Demais 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79473
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN 24HS" tvg-logo="" group-title="24 HORAS",X-MEN 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79474
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas" tvg-logo="" group-title="24 HORAS",[24H] 3 Palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79475
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 01" tvg-logo="" group-title="24 HORAS",[24H] A Culpa é do Cabral 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79476
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="" group-title="24 HORAS",[24H] A Mansão Foster
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79477
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="" group-title="24 HORAS",[24H] As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79478
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bita e os Animais" tvg-logo="" group-title="24 HORAS",[24h] Bita e os Animais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79479
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="" group-title="24 HORAS",[24H] Caillou
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79480
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Capitao Caverna" tvg-logo="" group-title="24 HORAS",[24H] Capitao Caverna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79483
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Capitão Caverna" tvg-logo="" group-title="24 HORAS",[24H] Capitão Caverna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79484
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="" group-title="24 HORAS",[24H] Cascão A Turma da Monica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79485
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="" group-title="24 HORAS",[24H] Cavaleiros do Zodiaco 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79486
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="" group-title="24 HORAS",[24H] Cavaleiros do Zodiaco 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79487
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="" group-title="24 HORAS",[24H] Cavaleiros do Zodiaco 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79488
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="" group-title="24 HORAS",[24H] Caverna do Dragão 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79489
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin 1" tvg-logo="" group-title="24 HORAS",[24H] Chapolin 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79490
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves" tvg-logo="" group-title="24 HORAS",[24H] Chaves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79491
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1" tvg-logo="" group-title="24 HORAS",[24H] Coragem o Cão Covarde 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79492
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="" group-title="24 HORAS",[24H] Corrida Maluca 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79493
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="" group-title="24 HORAS",[24H] Digimon 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79494
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="" group-title="24 HORAS",[24H] Digimon 15º Aniversário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79495
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora a Aventureira" tvg-logo="" group-title="24 HORAS",[24H] Dora a Aventureira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79496
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79497
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79498
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball Heroes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79499
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball Super 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79500
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball Super 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79501
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="" group-title="24 HORAS",[24H] Dragon Ball Super 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79502
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="" group-title="24 HORAS",[24H] Eu a Patroa e as Crianças 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79505
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 2" tvg-logo="" group-title="24 HORAS",[24H] Eu a Patroa e as Crianças 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79506
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Fate" tvg-logo="" group-title="24 HORAS",[24H] Fate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79507
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Flash" tvg-logo="" group-title="24 HORAS",[24H] Flash
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79508
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="" group-title="24 HORAS",[24H] Futurama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79509
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",[24h] Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79510
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="" group-title="24 HORAS",[24H] Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79514
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="24 HORAS",Liga da Justica 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79516
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="24 HORAS",Mortal Kombat 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79517
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24HS" tvg-logo="" group-title="24 HORAS",Naruto 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79519
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="24 HORAS",Papa-Léguas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79520
-#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon 24hs" tvg-logo="" group-title="24 HORAS",Sailor Moon 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79521
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="24 HORAS",Scooby-Doo 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79522
-#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="24 HORAS",He-Man 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79523
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="24 HORAS",South Park 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79524
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24hs" tvg-logo="" group-title="24 HORAS",Thundercats 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79525
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="24 HORAS",Uma Família da Pesada 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79526
-#EXTINF:-1 tvg-id="" tvg-name="visoes da raven 24HS" tvg-logo="" group-title="24 HORAS",visoes da raven 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79527
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="" group-title="24 HORAS",[24H] Naruto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79528
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="" group-title="24 HORAS",[24H] O Clube das Winx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79529
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="" group-title="24 HORAS",[24H] Os Flinstones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79530
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos" tvg-logo="" group-title="24 HORAS",[24H] Os Padrinhos Mágicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79531
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="" group-title="24 HORAS",[24H] Os Padrinhos Mágicos 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79532
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="" group-title="24 HORAS",[24H] Os Simpsons 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79533
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="" group-title="24 HORAS",[24H] Os Simpsons 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79534
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="" group-title="24 HORAS",[24H] Os Simpsons 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79535
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="" group-title="24 HORAS",[24H] Os Simpsons 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79536
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata" tvg-logo="" group-title="24 HORAS",[24H] Patati e Patata
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79537
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="" group-title="24 HORAS",[24H] Pica Pau 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79538
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="" group-title="24 HORAS",[24H] Pink-e-Cerebro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79539
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="" group-title="24 HORAS",[24H] PJ Masks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79540
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="" group-title="24 HORAS",[24H] Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79541
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="" group-title="24 HORAS",[24H] Popeye
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79542
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park" tvg-logo="" group-title="24 HORAS",[24H] South Park
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79543
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="" group-title="24 HORAS",[24H] Todo Mundo Odeia o Chris 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79544
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="" group-title="24 HORAS",[24H] Todo Mundo Odeia o Chris 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79545
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="" group-title="24 HORAS",[24H] Tom & Jerry
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79546
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="" group-title="24 HORAS",[24H] Um Maluco no Pedaço 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79547
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="" group-title="24 HORAS",[24H] Um Maluco no Pedaço 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79548
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhos" tvg-logo="" group-title="24 HORAS",[24h] Ursinhos Carinhos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79549
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 1" tvg-logo="" group-title="24 HORAS",[24H] Vai que Cola 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79550
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 2" tvg-logo="" group-title="24 HORAS",[24H] Vai que Cola 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79551
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Casa da Raven" tvg-logo="" group-title="24 HORAS",(24h) A Casa da Raven
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79552
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Futurama" tvg-logo="" group-title="24 HORAS",(24h) Futurama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79553
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Pica Pau Clássico" tvg-logo="" group-title="24 HORAS",(24h) Pica Pau Clássico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79554
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Kpop" tvg-logo="" group-title="24 HORAS",(24h) Kpop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79555
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Mickey e Donald" tvg-logo="" group-title="24 HORAS",(24h) Mickey e Donald
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79556
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dexter" tvg-logo="" group-title="24 HORAS",(24h) Dexter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79557
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Pantera Cor de Rosa" tvg-logo="" group-title="24 HORAS",(24h) A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79558
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Pequena Sereia" tvg-logo="" group-title="24 HORAS",(24h) A Pequena Sereia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79559
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Papa-léguas" tvg-logo="" group-title="24 HORAS",(24h) Papa-léguas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79560
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 3" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79561
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Bruce Lee: A Lenda" tvg-logo="" group-title="24 HORAS",(24h) Bruce Lee: A Lenda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79562
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Turma do Pateta" tvg-logo="" group-title="24 HORAS",(24h) A Turma do Pateta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79563
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Vaca e o Frango" tvg-logo="" group-title="24 HORAS",(24h) A Vaca e o Frango
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79564
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Homem de Ferro" tvg-logo="" group-title="24 HORAS",(24h) Homem de Ferro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79565
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Aladdin Desenho Animado" tvg-logo="" group-title="24 HORAS",(24h) Aladdin Desenho Animado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79566
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Animaniacs" tvg-logo="" group-title="24 HORAS",(24h) Animaniacs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79567
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Arqueiro" tvg-logo="" group-title="24 HORAS",(24h) Arqueiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79568
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Aventuras de Jackie Chan" tvg-logo="" group-title="24 HORAS",(24h) As Aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79569
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Meninas Super Poderosas" tvg-logo="" group-title="24 HORAS",(24h) As Meninas Super Poderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79570
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Disney" tvg-logo="" group-title="24 HORAS",(24h) Desenhos Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79571
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Avatar" tvg-logo="" group-title="24 HORAS",(24h) Avatar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79572
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Avatar a Lenda de Korra" tvg-logo="" group-title="24 HORAS",(24h) Avatar a Lenda de Korra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79573
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Super Choque" tvg-logo="" group-title="24 HORAS",(24h) Super Choque
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79574
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Bananas de Pijamas" tvg-logo="" group-title="24 HORAS",(24h) Bananas de Pijamas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79575
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Batman" tvg-logo="" group-title="24 HORAS",(24h) Batman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79576
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Batman do Futuro" tvg-logo="" group-title="24 HORAS",(24h) Batman do Futuro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79577
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ben 10" tvg-logo="" group-title="24 HORAS",(24h) Ben 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79578
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Black Kamen Rider" tvg-logo="" group-title="24 HORAS",(24h) Black Kamen Rider
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79579
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Bob Esponja" tvg-logo="" group-title="24 HORAS",(24h) Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79580
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Lucas Neto" tvg-logo="" group-title="24 HORAS",(24h) Lucas Neto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79581
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 5" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79582
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Boruto" tvg-logo="" group-title="24 HORAS",(24h) Boruto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79583
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Breaking Bad" tvg-logo="" group-title="24 HORAS",(24h) Breaking Bad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79584
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Brooklyn 99" tvg-logo="" group-title="24 HORAS",(24h) Brooklyn 99
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79585
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Caillou" tvg-logo="" group-title="24 HORAS",(24h) Caillou
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79586
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Digimon Savers" tvg-logo="" group-title="24 HORAS",(24h) Digimon Savers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79587
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 1" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79588
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cavaleiro do Zodiaco" tvg-logo="" group-title="24 HORAS",(24h) Cavaleiro do Zodiaco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79589
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Caverna do Dragão" tvg-logo="" group-title="24 HORAS",(24h) Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79590
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Charlie Brown" tvg-logo="" group-title="24 HORAS",(24h) Charlie Brown
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79591
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Chapolin Colorado" tvg-logo="" group-title="24 HORAS",(24h) Chapolin Colorado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79592
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Chaves" tvg-logo="" group-title="24 HORAS",(24h) Chaves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79593
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine 007" tvg-logo="" group-title="24 HORAS",(24h) Cine 007
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79594
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 1" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79595
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 2" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79596
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 3" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79597
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 4" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79598
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 5" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79599
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Sessão da Tarde" tvg-logo="" group-title="24 HORAS",(24h) Cine Sessão da Tarde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79600
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Três é Demais" tvg-logo="" group-title="24 HORAS",(24h) Três é Demais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79601
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 1" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79602
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Coragem o Cão Covarde" tvg-logo="" group-title="24 HORAS",(24h) Coragem o Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79603
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 2" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79604
-#EXTINF:-1 tvg-id="" tvg-name="(24h) CSI" tvg-logo="" group-title="24 HORAS",(24h) CSI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79605
-#EXTINF:-1 tvg-id="" tvg-name="(24h) De Ferias com o Ex" tvg-logo="" group-title="24 HORAS",(24h) De Ferias com o Ex
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79606
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Biblicos" tvg-logo="" group-title="24 HORAS",(24h) Desenhos Biblicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79607
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dois Homens e Meio" tvg-logo="" group-title="24 HORAS",(24h) Dois Homens e Meio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79608
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Doug" tvg-logo="" group-title="24 HORAS",(24h) Doug
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79609
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball GT" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball GT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79610
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Super" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79611
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79612
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Cell" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Cell
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79613
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Androides" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Androides
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79614
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Babidi" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Babidi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79615
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Majinbu" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Majinbu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79616
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Namekusei" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Namekusei
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79617
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Sayajin" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Sayajin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79618
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Sayaman" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Sayaman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79619
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Super" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79620
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Medabots" tvg-logo="" group-title="24 HORAS",(24h) Medabots
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79621
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Eu a Patroa e as Crianças" tvg-logo="" group-title="24 HORAS",(24h) Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79622
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Pegadinhas" tvg-logo="" group-title="24 HORAS",(24h) Pegadinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79623
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Fly o Pequeno Guerreiro" tvg-logo="" group-title="24 HORAS",(24h) Fly o Pequeno Guerreiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79624
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ta no Ar: A TV na TV" tvg-logo="" group-title="24 HORAS",(24h) Ta no Ar: A TV na TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79625
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",(24h) Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79626
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 4" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79627
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dick Vigarista e Muttley" tvg-logo="" group-title="24 HORAS",(24h) Dick Vigarista e Muttley
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79628
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Garfield" tvg-logo="" group-title="24 HORAS",(24h) Garfield
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79629
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Buzz Lightyer" tvg-logo="" group-title="24 HORAS",(24h) Buzz Lightyer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79630
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Gato Felix" tvg-logo="" group-title="24 HORAS",(24h) Gato Felix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79631
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Greys Anatomy" tvg-logo="" group-title="24 HORAS",(24h) Greys Anatomy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79632
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Filmes Marvel 01" tvg-logo="" group-title="24 HORAS",(24h) Filmes Marvel 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79633
-#EXTINF:-1 tvg-id="" tvg-name="(24h) He Man Desenho" tvg-logo="" group-title="24 HORAS",(24h) He Man Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79634
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 3" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79635
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Homem Aranha" tvg-logo="" group-title="24 HORAS",(24h) Homem Aranha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79636
-#EXTINF:-1 tvg-id="" tvg-name="(24h) iCarly" tvg-logo="" group-title="24 HORAS",(24h) iCarly
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79637
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Jonny Quest" tvg-logo="" group-title="24 HORAS",(24h) Jonny Quest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79638
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Grande Família" tvg-logo="" group-title="24 HORAS",(24h) Grande Família
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79639
-#EXTINF:-1 tvg-id="" tvg-name="(24h) La Casa de Papel" tvg-logo="" group-title="24 HORAS",(24h) La Casa de Papel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79640
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Smallville: As Aventuras do Superboy" tvg-logo="" group-title="24 HORAS",(24h) Smallville: As Aventuras do Superboy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79641
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ligeirinho" tvg-logo="" group-title="24 HORAS",(24h) Ligeirinho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79642
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Marvel Demolidor" tvg-logo="" group-title="24 HORAS",(24h) Marvel Demolidor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79643
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Masha e o Urso" tvg-logo="" group-title="24 HORAS",(24h) Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79644
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Mickey Mouse" tvg-logo="" group-title="24 HORAS",(24h) Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79645
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 6" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79646
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Naruto Clássico" tvg-logo="" group-title="24 HORAS",(24h) Naruto Clássico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79647
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Novela: Vamp" tvg-logo="" group-title="24 HORAS",(24h) Novela: Vamp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79648
-#EXTINF:-1 tvg-id="" tvg-name="(24h) O Mandaloriano" tvg-logo="" group-title="24 HORAS",(24h) O Mandaloriano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79649
-#EXTINF:-1 tvg-id="" tvg-name="(24h) O Show de Garfield" tvg-logo="" group-title="24 HORAS",(24h) O Show de Garfield
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79650
-#EXTINF:-1 tvg-id="" tvg-name="(24h) O Sócio" tvg-logo="" group-title="24 HORAS",(24h) O Sócio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79651
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Phineas e Ferb" tvg-logo="" group-title="24 HORAS",(24h) Phineas e Ferb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79652
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 7" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79653
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Jovens Titans" tvg-logo="" group-title="24 HORAS",(24h) Os Jovens Titans
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79654
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Pipoca 15" tvg-logo="" group-title="24 HORAS",(24h) Cine Pipoca 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79655
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Roni" tvg-logo="" group-title="24 HORAS",(24h) Os Roni
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79656
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Simpsons" tvg-logo="" group-title="24 HORAS",(24h) Os Simpsons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79657
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Smurfs" tvg-logo="" group-title="24 HORAS",(24h) Os Smurfs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79658
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Trapalhões" tvg-logo="" group-title="24 HORAS",(24h) Os Trapalhões
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79659
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Vingadores Desenho" tvg-logo="" group-title="24 HORAS",(24h) Os Vingadores Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79660
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Patrulha Canina" tvg-logo="" group-title="24 HORAS",(24h) Patrulha Canina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79661
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Peppa Pig" tvg-logo="" group-title="24 HORAS",(24h) Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79662
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Pica Pau" tvg-logo="" group-title="24 HORAS",(24h) Pica Pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79663
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 8" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79664
-#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 9" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79665
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Polícia 24H" tvg-logo="" group-title="24 HORAS",(24h) Polícia 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79666
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Popeye" tvg-logo="" group-title="24 HORAS",(24h) Popeye
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79667
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Power Rangers" tvg-logo="" group-title="24 HORAS",(24h) Power Rangers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79668
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Rei Leão" tvg-logo="" group-title="24 HORAS",(24h) Rei Leão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79669
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Rick And Morty" tvg-logo="" group-title="24 HORAS",(24h) Rick And Morty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79670
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Sai de Baixo" tvg-logo="" group-title="24 HORAS",(24h) Sai de Baixo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79671
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Scooby Doo" tvg-logo="" group-title="24 HORAS",(24h) Scooby Doo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79672
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Xuxa" tvg-logo="" group-title="24 HORAS",(24h) Xuxa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79673
-#EXTINF:-1 tvg-id="" tvg-name="(24h) South Park" tvg-logo="" group-title="24 HORAS",(24h) South Park
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79674
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Spartacus" tvg-logo="" group-title="24 HORAS",(24h) Spartacus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79675
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Stand-UP Comédia" tvg-logo="" group-title="24 HORAS",(24h) Stand-UP Comédia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79676
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Star Wars" tvg-logo="" group-title="24 HORAS",(24h) Star Wars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79677
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Street Fighter" tvg-logo="" group-title="24 HORAS",(24h) Street Fighter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79678
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Super Choque" tvg-logo="" group-title="24 HORAS",(24h) Super Choque
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79679
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 2" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png" group-title="24 HORAS",(24h) Cinema em Casa 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79680
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Supernatural" tvg-logo="https://www.kindpng.com/picc/m/755-7557686_supernatural-land-supernatural-text-png-transparent-png.png" group-title="24 HORAS",(24h) Supernatural
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79681
-#EXTINF:-1 tvg-id="" tvg-name="(24h) The 100" tvg-logo="https://seeklogo.com/images/T/the-100-logo-8E91F17357-seeklogo.com.png" group-title="24 HORAS",(24h) The 100
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79682
-#EXTINF:-1 tvg-id="" tvg-name="(24h) The Big Bang Theory" tvg-logo="https://logospng.org/wp-content/uploads/the-big-bang-theory.png" group-title="24 HORAS",(24h) The Big Bang Theory
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79683
-#EXTINF:-1 tvg-id="" tvg-name="(24h) The Walking Dead" tvg-logo="https://botonsblog.files.wordpress.com/2016/04/the-walking-dead-1.png" group-title="24 HORAS",(24h) The Walking Dead
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79684
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Timão e Pumba" tvg-logo="https://spng.pngfind.com/pngs/s/677-6772472_the-lion-king-png-download-image-lion-king.png" group-title="24 HORAS",(24h) Timão e Pumba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79685
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Todo Mundo Odeia o Chris" tvg-logo="http://icons.iconseeker.com/png/fullsize/tv-shows/everybody-hates-chris.png" group-title="24 HORAS",(24h) Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79686
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Tom e Jerry" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2021/04/Figura-Tom-And-Jerry-PNG.png" group-title="24 HORAS",(24h) Tom e Jerry
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79687
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 4" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Imagem-Elementos-Cinema-PNG.png" group-title="24 HORAS",(24h) Cinema em Casa 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79688
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Filmes Marvel 02" tvg-logo="https://logospng.org/download/marvel/logo-marvel-1536.png" group-title="24 HORAS",(24h) Filmes Marvel 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79689
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Um Maluco No Pedaço" tvg-logo="https://cinebuzz.uol.com.br/media/uploads/7_v1FrGnk.png" group-title="24 HORAS",(24h) Um Maluco No Pedaço
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79690
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ursinhos Gummi" tvg-logo="https://e7.pngegg.com/pngimages/889/573/png-clipart-gummy-bear-gummi-candy-the-gummi-bears-season-1-drawing-animated-cartoon-others-thumbnail.png" group-title="24 HORAS",(24h) Ursinhos Gummi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79691
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Irmão do Jorel" tvg-logo="https://cn.i.cdn.ti-platform.com/content/772/irmao-do-jorel/showpage/br/showlogo.e041c17d.png" group-title="24 HORAS",(24h) Irmão do Jorel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79692
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Vikings" tvg-logo="https://musical-time.com/wp-content/uploads/2020/06/vikings-serie-folders-vikings-logo-png-clip-art.png" group-title="24 HORAS",(24h) Vikings
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79693
-#EXTINF:-1 tvg-id="" tvg-name="(24h) X-Men Antigo" tvg-logo="https://cienciahoje.org.br/wp-content/uploads/2020/01/CC-POP_MUA3_Magneto-copy.png" group-title="24 HORAS",(24h) X-Men Antigo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79694
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Denis o Pimentinha" tvg-logo="https://gartic.com.br/imgs/mural/kh/khaleesi22/dennis-o-pimentinha.png" group-title="24 HORAS",(24h) Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79695
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2  FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 2  FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79774
-#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="PREMIERE 2 HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 2 HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79775
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 2 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79776
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 3 FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79777
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 3 HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79778
-#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="PREMIERE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79779
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 4 FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79780
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="PREMIERE 4 HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 4 HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79781
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="PREMIERE 4 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 4 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79782
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 5 FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79783
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 5 HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79784
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 5 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79785
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 6 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79786
-#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="PREMIERE 7 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 7 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79787
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 8 FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79788
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE 8 SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79789
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="PREMIERE CLUBES FULL HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE CLUBES FULL HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79790
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="PREMIERE CLUBES HD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE CLUBES HD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79791
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="PREMIERE CLUBES SD ( alternative 01 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",PREMIERE CLUBES SD ( alternative 01 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79792
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="Premiere SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79793
-#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 2 HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79794
-#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="Premiere 3 HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 3 HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79795
-#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="Premiere 3 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 3 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79796
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="Premiere 4 HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 4 HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79797
-#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="Premiere 4 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 4 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79798
-#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-name="Premiere 5 HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 5 HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79799
-#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 5 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 5 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79800
-#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 6 HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 6 HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79801
-#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 6 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 6 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79802
-#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 7 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79803
-#EXTINF:-1 tvg-id="Example" tvg-name="Premiere 8 SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere 8 SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79804
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="Premiere Clubes 4K ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere Clubes 4K ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79805
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="Premiere Clubes HD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere Clubes HD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79806
-#EXTINF:-1 tvg-id="Premiere Clubes SD" tvg-name="Premiere Clubes SD ( alternative 02 )" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="PREMIERE CLUBE",Premiere Clubes SD ( alternative 02 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://sv1.casaplay5g.win:8080/suelene/102030/79807
-
-
-
-
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="A Fazenda [Câmera 1 Principal]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 1 Principal]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/176732
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda [Câmera 2]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169515
+#EXTINF:-1 tvg-id="AE" tvg-name="A Fazenda [Câmera 3]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 3]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169540
+#EXTINF:-1 tvg-id="AE" tvg-name="A Fazenda [Câmera 4]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 4]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/177436
+#EXTINF:-1 tvg-id="AE" tvg-name="A Fazenda [Câmera 5]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 5]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/155270
+#EXTINF:-1 tvg-id="AE" tvg-name="A Fazenda [Câmera 6]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 6]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148195
+#EXTINF:-1 tvg-id="Agro+" tvg-name="A Fazenda [Câmera 7]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 7]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83795
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="A Fazenda [Câmera 8]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/08/logo-fazenda-14.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | A Fazenda",A Fazenda [Câmera 8]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83773
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139100
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [Alt]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",A&E FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147431
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [H265]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83335
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83185
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD [Alt]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",A&E HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147432
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83521
+#EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ FHD" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162557
+#EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ FHD [Alt]" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147461
+#EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ HD" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152570
+#EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ HD [Alt]" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140815
+#EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ SD" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162556
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136797
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [Alt]" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142161
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [H265]" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",AMC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83336
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83186
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD [Alt]" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136814
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83522
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet 4K" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Animal Planet 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151041
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87312
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD [Alt]" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147434
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83368
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83187
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD [Alt]" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147435
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83523
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147358
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD [Alt]" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Arte 1 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147436
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD [H265]" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Arte 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164576
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 HD" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150162
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 HD [Alt]" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Arte 1 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147437
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 SD" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162558
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136792
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147438
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [H265]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",AXN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83369
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83188
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147439
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83524
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162947
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND 4K" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",BAND 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83435
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Brasilia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163695
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Brasilia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83439
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Campinas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195185
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Campinas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195184
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147442
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147443
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News FHD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",BAND News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139115
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News FHD [Alt]" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",BAND News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147444
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News FHD [H265]" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",BAND News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83370
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News HD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",BAND News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83308
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News HD [Alt]" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",BAND News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147445
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND News SD" tvg-logo="https://i.imgur.com/YZtFGG5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",BAND News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83528
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND PA HD [Alt 2]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND PA HD [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162945
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Band RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195180
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Band RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195179
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RS HD [Alt 2]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Band RS HD [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156620
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83769
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",BAND SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83726
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163037
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83440
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83806
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147446
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",BAND Sports FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83371
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83189
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147447
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83529
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Trilogia" tvg-logo="https://i.imgur.com/sZllTYP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Batman - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133415
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147363
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD [Alt]" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",BIS FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147449
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD [H265]" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",BIS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83337
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83190
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD [Alt]" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",BIS HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147450
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83530
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 16-05-2020]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133620
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 3 sem propagandas]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133624
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 4 sem propagandas]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136196
+#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26 Argentina HD" tvg-logo="https://i.imgur.com/pWtp6gn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Canal 26 Argentina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/70449
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147365
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147454
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Canal Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83373
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150167
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147455
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83532
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi FHD" tvg-logo="https://i.imgur.com/UHRVrRV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Canal do Boi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162811
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi FHD [Alt]" tvg-logo="https://i.imgur.com/UHRVrRV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Canal do Boi FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140987
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi HD" tvg-logo="https://i.imgur.com/UHRVrRV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162810
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi HD [Alt]" tvg-logo="https://i.imgur.com/UHRVrRV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Canal do Boi HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140939
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi SD" tvg-logo="https://i.imgur.com/UHRVrRV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83533
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136801
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Sony FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147680
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD [H265]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Canal Sony FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83374
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83191
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Sony HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147681
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony SD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Canal Sony SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83534
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova FHD [Alt]" tvg-logo="https://i.imgur.com/kKxB8ia.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Canção Nova FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83535
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova HD [Alt]" tvg-logo="https://i.imgur.com/kKxB8ia.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Canção Nova HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169526
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova SD" tvg-logo="https://i.imgur.com/kKxB8ia.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147457
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network 4K" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Cartoon Network 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151044
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126105
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD [Alt]" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoon Network FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147458
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83375
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83192
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD [Alt]" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoon Network HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147459
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD" tvg-logo="https://i.imgur.com/ztEZbTg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83536
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito FHD" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126104
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito FHD [Alt]" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoonito FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169537
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Cartoonito FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83372
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140941
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito HD [Alt]" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoonito HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/176172
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito SD" tvg-logo="https://i.imgur.com/XZD8VP7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83531
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN SD" tvg-logo="https://i.imgur.com/ouY9sEr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CGTN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/84743
+#EXTINF:-1 tvg-id="CINESKY3" tvg-name="Cine Sky 01 [Uncharted: Fora do Mapa]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 01 [Uncharted: Fora do Mapa]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83314
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02 [Batman]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 02 [Batman]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83315
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03 [King Richard]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 03 [King Richard]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83316
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04 [A Era do Gelo: As Aventuras de Buck]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 04 [A Era do Gelo: As Aventuras de Buck]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83317
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05 [O Projeto Adam]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 05 [O Projeto Adam]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83318
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06 [O Bombardeio]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 06 [O Bombardeio]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83877
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07 [Ambulância - Um Dia de Crime]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 07 [Ambulância - Um Dia de Crime]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/84773
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08 [Até a Próxima Vez]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 08 [Até a Próxima Vez]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/84885
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09 [Contra o Gelo]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 09 [Contra o Gelo]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86437
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10 [Munique: No Limite da Guerra]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 10 [Munique: No Limite da Guerra]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86438
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 11 [O Resgate de Ruby]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 11 [O Resgate de Ruby]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86439
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 12 [Um Dia Difícil]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 12 [Um Dia Difícil]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86440
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 13 [Não Olhe para Cima]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 13 [Não Olhe para Cima]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86441
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14 [Um Jantar Entre Espiões]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 14 [Um Jantar Entre Espiões]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86442
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 [Umma]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Cine Sky",Cine Sky 15 [Umma]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86443
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinecanal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136794
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinecanal FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147557
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD [H265]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Cinecanal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163282
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83213
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinecanal HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147558
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal SD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinecanal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83559
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136798
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD [Alt]" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinemax FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147462
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD [H265]" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83338
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83193
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD [Alt]" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinemax HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147463
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83537
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83436
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNN Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147464
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",CNN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164573
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83306
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNN Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147465
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83669
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi FHD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNNi FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147468
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi HD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",CNNi HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147469
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151035
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83821
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Combate FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147471
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83376
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83194
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Combate HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147472
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83538
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central 4K" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Comedy Central 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156473
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139107
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD [Alt]" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Comedy Central FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147473
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD [H265]" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Comedy Central FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83339
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83195
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD [Alt]" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Comedy Central HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147474
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central SD" tvg-logo="https://i.imgur.com/z1E0ZP0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83539
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83866
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 1 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147475
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83865
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 1 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169531
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83864
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83869
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147476
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83868
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169530
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83867
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86706
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 3 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147477
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86707
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 3 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147478
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83870
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165437
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 4 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147479
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 HD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165436
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 HD [Alt]" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 4 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147480
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 SD" tvg-logo="https://i.imgur.com/dkOdEb3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Libertadores/Sul-Americana",Conmebol TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83871
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Curta! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162808
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Curta! FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147499
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD [H265]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Curta! FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164571
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162809
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Curta! HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147500
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83540
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147501
+#EXTINF:-1 tvg-id="bbb22" tvg-name="DAZN 01 HD [Alt 2]" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 01 HD [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195172
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83446
+#EXTINF:-1 tvg-id="bbb22" tvg-name="DAZN 02 HD [Alt 2]" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 02 HD [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/179430
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83447
+#EXTINF:-1 tvg-id="bbb22" tvg-name="DAZN 03 HD [Alt 2]" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 03 HD [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151059
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",DAZN 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83448
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",DC Comics 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83876
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",DC Comics 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83885
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87316
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147503
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83340
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83196
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147504
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83541
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87315
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Home & Health FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147505
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Home & Health FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83341
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83198
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Home & Health HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147506
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83542
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery ID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126101
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery ID FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147507
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [H265]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery ID FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83355
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83230
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery ID HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147508
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID SD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery ID SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83578
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126106
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD [Alt]" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Discovery Kids FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147509
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83378
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83199
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD [Alt]" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Discovery Kids HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147510
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids SD" tvg-logo="https://i.imgur.com/hP3ihG6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83543
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126102
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Science FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147511
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83379
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83200
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Science HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147512
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162807
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126103
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Theater FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147513
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Theater FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83342
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83201
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Theater HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147514
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater SD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162806
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126100
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Turbo FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147515
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery Turbo FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83343
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83202
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Turbo HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147516
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo SD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83544
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87310
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery World FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147517
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD [H265]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83344
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83203
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery World HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147518
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162805
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126107
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD [Alt]" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147519
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83380
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83204
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD [Alt]" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147520
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel SD" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83545
+#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 01" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Disney Clássico 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89549
+#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 02" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Disney Clássico 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89550
+#EXTINF:-1 tvg-id="" tvg-name="Djing Music TV SD" tvg-logo="https://i.imgur.com/Dq5TRD1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Djing Music TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/141032
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV FHD" tvg-logo="https://i.imgur.com/Z3n0DAW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162690
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV HD" tvg-logo="https://i.imgur.com/Z3n0DAW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169512
+#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139113
+#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD [Alt]" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",E! FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147525
+#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD [H265]" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",E! FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83345
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83206
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD [Alt]" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",E! HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147526
+#EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83548
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Eduardo Costa [Aqui em Uberlândia]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136588
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Eduardo Costa [Especial Dia dos Namorados]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136587
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/155420
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83809
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [Alt]" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 1 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147541
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [H265]" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83385
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83208
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD [Alt]" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 1 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147542
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD" tvg-logo="https://i.imgur.com/Oev3Ltz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162796
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83807
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [Alt]" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147545
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83383
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83209
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD [Alt]" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147546
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/nX5kQr5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83552
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151048
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83808
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 3 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147539
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83384
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83207
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 3 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147540
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83553
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151039
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83811
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 4 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147568
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83388
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83217
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 4 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147565
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83560
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83810
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN Extra FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147543
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83382
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83210
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN Extra HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147544
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162802
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/eurochannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Eurochannel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147548
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/eurochannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Eurochannel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147547
+#EXTINF:-1 tvg-id="Fashion TV Brasil" tvg-name="Fashion TV FHD" tvg-logo="https://i.imgur.com/CXheUKG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fashion TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147356
+#EXTINF:-1 tvg-id="AE" tvg-name="Fashion TV FHD [Alt]" tvg-logo="https://i.imgur.com/CXheUKG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fashion TV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147451
+#EXTINF:-1 tvg-id="Fashion TV Brasil" tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/CXheUKG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fashion TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150160
+#EXTINF:-1 tvg-id="AE" tvg-name="Fashion TV HD [Alt]" tvg-logo="https://i.imgur.com/CXheUKG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fashion TV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147409
+#EXTINF:-1 tvg-id="Fashion TV Brasil" tvg-name="Fashion TV SD" tvg-logo="https://i.imgur.com/CXheUKG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fashion TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162801
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="Film & Arts FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/filmandarts2018.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Film & Arts FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147497
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="Film & Arts HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/filmandarts2018.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Film & Arts HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147492
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV FHD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162799
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV FHD [Alt]" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fish TV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147550
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV FHD [H265]" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Fish TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83386
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV HD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162800
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV HD [Alt]" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fish TV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147551
+#EXTINF:-1 tvg-id="FishTV" tvg-name="Fish TV SD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83556
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139641
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD [Alt]" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Food Network FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147553
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD [H265]" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Food Network FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83387
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83211
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network HD [Alt]" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Food Network HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147554
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network SD" tvg-logo="https://i.imgur.com/eg1zv2D.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83557
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",FOX Sports 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151046
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83812
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",FOX Sports 2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147566
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",FOX Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83389
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83216
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",FOX Sports 2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147567
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | ESPN/Fox Sports",FOX Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83561
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",France 24 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140895
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",France 24 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147466
+#EXTINF:-1 tvg-id="" tvg-name="Furacão Brasileirão [Casimito]" tvg-logo="https://i.imgur.com/LlWKncK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Furacão Brasileirão [Casimito]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83331
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Futura FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162794
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Futura FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147569
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Futura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162795
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Futura HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147460
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/futura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83562
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136799
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD [Alt]" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",FX FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147570
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD [H265]" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",FX FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83390
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83218
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD [Alt]" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",FX HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147571
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="https://i.imgur.com/ZW4sq9x.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83563
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Araxá MG FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162710
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Araxá MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162709
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Araxá MG SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162708
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia Salvador FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/132027
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia Salvador FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147391
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia Salvador HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/132028
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia Salvador HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147392
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia Salvador SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83644
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia TV Santa Cruz FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Bahia TV Santa Cruz FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147426
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154000
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Brasilia FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147395
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83455
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Brasilia HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147396
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83564
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83504
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Campinas FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147370
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83503
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Campinas HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147371
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83550
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Central Sao Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83549
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83434
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83514
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165432
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Sul de Minas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162812
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Sul de Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83516
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162707
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Alto Litoral FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147406
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162706
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162705
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Cabugi Natal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162784
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Cabugi Natal FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147407
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Cabugi Natal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162785
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162713
+#EXTINF:-1 tvg-id="intertv mg" tvg-name="GB Inter TV dos Vales HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162712
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150157
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150156
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB MG Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165439
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB MG Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165440
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162792
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Minas FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147374
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83491
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Minas HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147375
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Nordeste Recife FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162790
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Nordeste Recife FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147376
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Nordeste Recife HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162791
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Nordeste Recife HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147377
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Nordeste Recife SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83567
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162778
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Blumenau FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147410
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83489
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Blumenau HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147670
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/193334
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Centro Oeste HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/193333
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162714
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Chapeco FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147411
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162715
+#EXTINF:-1 tvg-id="nsc tv Criciúma" tvg-name="GB NSC TV Criciúma FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Criciúma FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162789
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Criciúma FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147412
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Criciúma HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162771
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162775
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162777
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Florianópolis FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147379
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Florianópolis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83500
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Florianópolis HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147380
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162719
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Joinville FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147413
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162718
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PB TV Paraíba FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB PB TV Paraíba FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147726
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB PE Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152922
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB PE Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151324
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83438
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83333
+#EXTINF:-1 tvg-id="rbs tv Caxias" tvg-name="GB RBS TV Caxias FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Caxias FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147414
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Cruz Alta FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Cruz Alta FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83579
+#EXTINF:-1 tvg-id="Inter TV RN - natal" tvg-name="GB RBS TV Cruz Alta HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Cruz Alta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165433
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Passo Fundo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162761
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162803
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86690
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86691
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Pelotas HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147415
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154096
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Porto Alegre FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147381
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83462
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Porto Alegre HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147382
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83611
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RBS TV Santa Maria FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147416
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazonica Porto Velho HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazonica Porto Velho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163693
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Manaus FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162793
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Manaus FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147417
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83497
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Porto Velho FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152928
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Rio Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152927
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Amazônica Rio Branco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163694
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Boa Vista FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162554
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Boa Vista HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162683
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Macapá FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162723
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB Rede Macapá HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162685
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83502
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RJ FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147384
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83459
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RJ HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147385
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83568
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154280
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Curitiba FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147386
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83493
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Curitiba HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147387
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86704
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Foz do Iguaçu FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147418
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/86705
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162704
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162703
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringá FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Maringá FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147419
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162698
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Ponta Grossa FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147420
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162699
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC TV Paranavai FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162722
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB RPC TV Paranavai HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162721
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP 4K" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",GB SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151058
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83510
+#EXTINF:-1 tvg-id="AE" tvg-name="GB SP FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB SP FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147388
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",GB SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/155266
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83461
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB SP HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147389
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83569
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Anhanguera Goiás FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162787
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Anhanguera Goiás FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147404
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Anhanguera Goiás HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83270
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Anhanguera Goiás HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147405
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Anhanguera Goiás SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83642
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Asa Branca Caruaru FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147421
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Centro America Cuiabá FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162751
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Centro America Cuiabá HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162752
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147368
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Centro América Cuiabá HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147369
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Clube Teresina FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147728
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162672
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162673
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162691
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta Alagoas FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147422
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162692
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162687
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162688
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162684
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Vitoria FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147401
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162686
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Gazeta ES Vitoria HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147408
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Integracao Juiz de Fora FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162681
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Integracao Juiz de Fora HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162682
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162744
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Liberal Belém FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147393
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83506
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Liberal Belém HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147394
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Liberal Belém SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83649
+#EXTINF:-1 tvg-id="tv mirante COCAIS" tvg-name="GB TV Mirante Cocais FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162720
+#EXTINF:-1 tvg-id="tv mirante COCAIS" tvg-name="GB TV Mirante Cocais HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162783
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante São Luís FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162742
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante São Luís FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147397
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante São Luís HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83498
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Mirante São Luís HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147398
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Morena MS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162733
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Morena MS FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147399
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Morena MS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83479
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Morena MS HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147400
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162782
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83499
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Rio Sul HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147425
+#EXTINF:-1 tvg-id="tv sergipe" tvg-name="GB TV Sergipe Aracaju FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Sergipe Aracaju FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83460
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Sergipe Aracaju HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Sergipe Aracaju HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147427
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162736
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162737
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83652
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Itapetininga HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162676
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152579
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162466
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Sorocaba HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147373
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83654
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem Sorocaba SD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147372
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem São José do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162678
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem São José do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162679
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tem São José do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162680
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150151
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150150
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83655
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda S.J. dos Campos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140740
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda S.J. dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140741
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda S.J. dos Campos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83656
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda Taubate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169522
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda Taubate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169521
+#EXTINF:-1 tvg-id="tv vanguarda Taubate" tvg-name="GB TV Vanguarda Taubate SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169520
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Verdes Mares Ceará FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162741
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Verdes Mares Ceará FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147402
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Verdes Mares Ceará HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83507
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Verdes Mares Ceará HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147403
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Globos",GB TV Verdes Mares Ceará SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83657
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News FHD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139102
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News FHD [Alt]" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Globo News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147572
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News FHD [H265]" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Globo News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83391
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83219
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD [Alt]" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Globo News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147573
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News SD" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83566
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126109
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD [Alt]" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloob FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147574
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD [H265]" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83392
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83221
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD [Alt]" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloob HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147575
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob SD" tvg-logo="https://i.imgur.com/3JOdnZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83570
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho FHD" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126110
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho FHD [Alt]" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloobinho FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147576
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho FHD [H265]" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148189
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho HD" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83666
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho HD [Alt]" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloobinho HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147577
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho SD" tvg-logo="https://i.imgur.com/Tflf2aa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162757
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139111
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD [Alt]" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",GNT FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147578
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD [H265]" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",GNT FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140812
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83222
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD [Alt]" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",GNT HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147579
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83571
+#EXTINF:-1 tvg-id="US: NBC GOLF CHANNEL" tvg-name="Golf Channel FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/golfchannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Golf Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/146910
+#EXTINF:-1 tvg-id="US: NBC GOLF CHANNEL" tvg-name="Golf Channel HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/golfchannel.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",Golf Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83618
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [Buteco em BH]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136189
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [Buteco Em Casa 1]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136192
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [Embaixador no Agronegócio]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136188
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [Especial São João]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136191
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [Festa do Peão Barretos]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136190
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima [YouTube Music]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136187
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133628
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 01" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Harry Potter 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123176
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 02" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Harry Potter 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123175
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO 4K" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151050
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Familly FHD [H265]" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Familly FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83350
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family FHD" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140710
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family FHD [Alt]" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Family FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147584
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83224
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD [Alt]" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Family HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147585
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family SD" tvg-logo="https://i.imgur.com/PHqARSm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83573
+#EXTINF:-1 tvg-id="AE" tvg-name="HBO Max 1" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142029
+#EXTINF:-1 tvg-id="AE" tvg-name="HBO Max 2" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142030
+#EXTINF:-1 tvg-id="AE" tvg-name="HBO Max 3" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140817
+#EXTINF:-1 tvg-id="AE" tvg-name="HBO Max 4" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142031
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162850
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6" tvg-logo="https://i.imgur.com/tSiulBn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",HBO Max 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162559
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140736
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi FHD [Alt]" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Mundi FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147588
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Mundi FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83397
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83232
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi HD [Alt]" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Mundi HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147589
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi SD" tvg-logo="https://i.imgur.com/oWWWwc3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83582
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140737
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop FHD [Alt]" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Pop FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147592
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop FHD [H265]" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Pop FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83356
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83234
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop HD [Alt]" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Pop HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147593
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop SD" tvg-logo="https://i.imgur.com/Qs4FeDt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140948
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140735
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD [Alt]" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Signature FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147594
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD [H265]" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83353
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83227
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD [Alt]" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Signature HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147595
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature SD" tvg-logo="https://i.imgur.com/S8rsnfy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83575
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme 4K" tvg-logo="https://i.imgur.com/y7uzQsv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Xtreme 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151055
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140732
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme FHD [Alt]" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Xtreme FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147596
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO Xtreme FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83398
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83233
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD [Alt]" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Xtreme HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147597
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/L98C8Gc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140947
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140734
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO+ FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147590
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO+ FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83352
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83226
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO+ HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147591
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO+ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83574
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 FHD" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140708
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 FHD [Alt]" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO1 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147586
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 FHD [H265]" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83351
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 HD" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83225
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 HD [Alt]" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO1 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147587
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO1 SD" tvg-logo="https://i.imgur.com/jWNUw9v.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83572
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 FHD" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140733
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 FHD [Alt]" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147582
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 FHD [H265]" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83354
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83223
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 HD [Alt]" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147583
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2 SD" tvg-logo="https://i.imgur.com/kszH8uF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO",HBO2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83576
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Henrique e Juliano [Live Liberdade Provisória]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133623
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139110
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FHD [Alt]" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",HGTV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147598
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FHD [H265]" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HGTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83377
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83197
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD [Alt]" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",HGTV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147599
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/3Xzp4QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162786
+#EXTINF:-1 tvg-id="History" tvg-name="History FHD" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83819
+#EXTINF:-1 tvg-id="History" tvg-name="History FHD [Alt]" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147711
+#EXTINF:-1 tvg-id="History" tvg-name="History FHD [H265]" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",History FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83393
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83229
+#EXTINF:-1 tvg-id="History" tvg-name="History HD [Alt]" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147712
+#EXTINF:-1 tvg-id="History" tvg-name="History SD" tvg-logo="https://i.imgur.com/MsaqZ5Y.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83663
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 FHD" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87314
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 FHD [Alt]" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147580
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 FHD [H265]" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",History2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83394
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 HD" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83228
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 HD [Alt]" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147581
+#EXTINF:-1 tvg-id="History 2" tvg-name="History2 SD" tvg-logo="https://i.imgur.com/px9Z0wK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",History2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83577
+#EXTINF:-1 tvg-id="SBT" tvg-name="Igreja Mundial Poder de Deus HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-mundial-do-poder-de-deus-logo-simbolo-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Igreja Mundial Poder de Deus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169524
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Mortais 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123177
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Mortais 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123178
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Vorazes - Quadrilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123179
+#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",John Wick - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133418
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Jorge e Mateus [Na Praia Hotel]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136193
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Jorge e Mateus [Pelo Amor de Deus]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136194
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Jorge e Mateus [Sunset]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136195
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152567
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD [Alt]" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/183592
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD [H265]" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Jovem Pan News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147559
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News HD" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165441
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News HD [Alt]" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/183591
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News SD" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147560
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Eduardo Costa [Cabaré]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136589
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136592
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Zé Felipe [Pai e Filho]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136590
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo [Canto, Bebo e Choro]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136591
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime FHD" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87309
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime FHD [Alt]" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Lifetime FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147602
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime FHD [H265]" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Lifetime FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83395
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83231
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD [Alt]" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Lifetime HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147603
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime SD" tvg-logo="https://i.imgur.com/696PoZR.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83580
+#EXTINF:-1 tvg-id="Like" tvg-name="Like FHD [Alt]" tvg-logo="https://i.imgur.com/B338cHi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Like FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147488
+#EXTINF:-1 tvg-id="Like" tvg-name="Like HD [Alt]" tvg-logo="https://i.imgur.com/B338cHi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Like HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147486
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 1]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136201
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136202
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui na Fazenda]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136198
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Drive-In Na Terra]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136200
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Fun Live]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136199
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Workshow]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136197
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Lado B]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136206
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Live Local]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136205
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Todos os Cantos]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136204
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Workshow]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136203
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83171
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83184
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87696
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89551
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Maze Runner - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123180
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix 4K" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MegaPix 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151045
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",MegaPix FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136800
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD [Alt]" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",MegaPix FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147607
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD [H265]" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MegaPix FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83399
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix HD" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",MegaPix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83235
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix HD [Alt]" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",MegaPix HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147608
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix SD" tvg-logo="https://i.imgur.com/5dShfae.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",MegaPix SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83585
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 01" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164627
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 02" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164628
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 03" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164629
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 04" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164630
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 05" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164631
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 06" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164632
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 07" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164633
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 08" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164634
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 09" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164635
+#EXTINF:-1 tvg-id="" tvg-name="MLB Extra Innings 10" tvg-logo="https://i.imgur.com/aOhv7J5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Extra Innings 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164636
+#EXTINF:-1 tvg-id="" tvg-name="MLB Strike Zone" tvg-logo="https://i.imgur.com/H36DIJs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",MLB Strike Zone
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164626
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem FHD" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Modo Viagem FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147364
+#EXTINF:-1 tvg-id="AE" tvg-name="Modo Viagem FHD [Alt]" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Modo Viagem FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147605
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem FHD [H265]" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Modo Viagem FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83396
+#EXTINF:-1 tvg-id="Mais na Tela" tvg-name="Modo Viagem HD" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Modo Viagem HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83220
+#EXTINF:-1 tvg-id="AE" tvg-name="Modo Viagem HD [Alt]" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Modo Viagem HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147606
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem SD" tvg-logo="https://i.imgur.com/knr4T97.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Modo Viagem SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83581
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s FHD" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV 00s FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162739
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s FHD [Alt]" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV 00s FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147601
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s FHD [H265]" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MTV 00s FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83367
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83275
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s HD [Alt]" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV 00s HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147600
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00s SD" tvg-logo="https://i.imgur.com/3ejQyTU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV 00s SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162740
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139103
+#EXTINF:-1 tvg-id="AE" tvg-name="MTV FHD [Alt]" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147609
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV FHD [H265]" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83357
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83236
+#EXTINF:-1 tvg-id="AE" tvg-name="MTV HD [Alt]" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147610
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live FHD" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162730
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live FHD [Alt]" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV Live FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147742
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live FHD [H265]" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169519
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live HD" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162731
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live HD [Alt]" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV Live HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147743
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live SD" tvg-logo="https://i.imgur.com/0n2aBAg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV Live SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162732
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/8bXcdAH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83586
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow 4K" tvg-logo="https://i.imgur.com/awRBCdt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151043
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139109
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD [Alt]" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Multishow FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147611
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD [H265]" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Multishow FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83358
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83237
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD [Alt]" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Multishow HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147612
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow SD" tvg-logo="https://i.imgur.com/txoA64j.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83587
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Music Box Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147613
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brasil HD [Alt]" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Music Box Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147614
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brazil FHD" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162735
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brazil HD" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83589
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brazil SD" tvg-logo="https://i.imgur.com/YsmrlLn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83588
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic 4K" tvg-logo="https://i.imgur.com/m3VoPNf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",National Geographic 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151047
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87313
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD [Alt]" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",National Geographic FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147615
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD [H265]" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",National Geographic FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83400
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83238
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD [Alt]" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",National Geographic HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147616
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic SD" tvg-logo="https://i.imgur.com/d1fJNoy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83592
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 01" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164595
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 02" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164596
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 03" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164597
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 04" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164598
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 05" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164599
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 06" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164600
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 07" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164601
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 08" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164602
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 09" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164603
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164604
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 11" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164605
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 12" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164606
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 13" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164607
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 14" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 14
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164608
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 15" tvg-logo="https://i.imgur.com/7hxWpO5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA League Pass 15
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164609
+#EXTINF:-1 tvg-id="US: NBA TV" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/aQKeoud.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NBA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162970
+#EXTINF:-1 tvg-id="AMC" tvg-name="NFL 01" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140816
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="NFL 02" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140818
+#EXTINF:-1 tvg-id="AXN" tvg-name="NFL 03" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140819
+#EXTINF:-1 tvg-id="Baby Tv" tvg-name="NFL 04" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140820
+#EXTINF:-1 tvg-id="Band News" tvg-name="NFL 05" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140821
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NFL 06" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140823
+#EXTINF:-1 tvg-id="US: NFL NETWORK" tvg-name="NFL Network" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83619
+#EXTINF:-1 tvg-id="" tvg-name="NFL Redzone" tvg-logo="https://i.imgur.com/auvzHSk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | USA PPV Sports",NFL Redzone
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140443
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK Japão FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/nhk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",NHK Japão FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/183761
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126113
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD [Alt]" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nick Jr FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147623
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD [H265]" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83403
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83242
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD [Alt]" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nick Jr HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147624
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr SD" tvg-logo="https://i.imgur.com/nzcbqDA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83594
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/126112
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD [Alt]" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147621
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83402
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83241
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD [Alt]" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147622
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon SD" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83595
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit - Trilogia" tvg-logo="https://i.imgur.com/bQuLAch.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",O Hobbit - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123181
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Aneis - Trilogia" tvg-logo="https://i.imgur.com/uwOcud9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",O Senhor dos Aneis - Trilogia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/123182
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139108
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147625
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [H265]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",OFF FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83404
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83243
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD [Alt]" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147626
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83596
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 1" tvg-logo="https://i.imgur.com/u1MD3Fl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",OneFootball 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139467
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 2 [Alt 2]" tvg-logo="https://i.imgur.com/u1MD3Fl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",OneFootball 2 [Alt 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139472
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136802
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Paramount Channel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147627
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Paramount Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83360
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83244
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Paramount Channel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147628
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83597
+#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop FHD" tvg-logo="https://i.imgur.com/TNAvmCA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Polishop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147632
+#EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop HD" tvg-logo="https://i.imgur.com/TNAvmCA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Polishop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164438
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/caJAhY0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 1 Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151037
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 1 Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83813
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147633
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83405
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 1 Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83251
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 1 Clubes HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147634
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 1 Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83601
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87323
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147635
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83406
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83245
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147636
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83602
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87321
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 3 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147637
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83407
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83246
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 3 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147638
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83603
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87320
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 4 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147639
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83408
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83247
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 4 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147640
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83604
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152926
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 5 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147641
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83409
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83248
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 5 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147642
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83605
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87319
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 6 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147643
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83410
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83249
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 6 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147644
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83606
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87318
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 7 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147645
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83411
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83250
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alt]" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 7 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147646
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/fpYQzdS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Premiere FC",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83607
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/NAk8Qk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Prime Box Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147647
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brasil HD [Alt]" tvg-logo="https://i.imgur.com/NAk8Qk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Prime Box Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147648
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil FHD" tvg-logo="https://i.imgur.com/NAk8Qk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162774
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil HD" tvg-logo="https://i.imgur.com/NAk8Qk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162776
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil SD" tvg-logo="https://i.imgur.com/NAk8Qk0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83610
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Prime Esportes 1 FHD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Prime Esportes 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83449
+#EXTINF:-1 tvg-id="" tvg-name="Prime Esportes 1 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Prime Esportes 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169514
+#EXTINF:-1 tvg-id="Shoptime" tvg-name="Prime Esportes 1 SD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Prime Esportes 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195181
+#EXTINF:-1 tvg-id="" tvg-name="Prime Esportes 2 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Prime Esportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169513
+#EXTINF:-1 tvg-id="Shoptime" tvg-name="Prime Esportes 3 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Prime Esportes 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195182
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Alexandre Pires [Live Gigantes do Samba]" tvg-logo="https://i.imgur.com/14Np9Lb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/134985
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Amigos em Casa [Live 21-04-2020]" tvg-logo="https://i.imgur.com/O4SE5h7.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Raça Negra e Amigos em Casa [Live 21-04-2020]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/134986
+#EXTINF:-1 tvg-id="RBI" tvg-name="RBI FHD [Alt]" tvg-logo="https://i.imgur.com/OnFYQM6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",RBI FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147649
+#EXTINF:-1 tvg-id="RBI" tvg-name="RBI HD [Alt]" tvg-logo="https://i.imgur.com/OnFYQM6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",RBI HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/127908
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record BA Itapoan FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162665
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record BA Itapoan HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163692
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record BA Itapoan HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147650
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record BA Itapoan SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169528
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Belém FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162769
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Belém HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83469
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Belém SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162768
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Brasília FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165428
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/157301
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Brasília HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169518
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Brasília SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162765
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Cabralia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Cabralia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147669
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Cabralia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Cabralia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164593
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/157300
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162764
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/157298
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147655
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Goias FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162766
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Goias HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83252
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Goias HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147656
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Goias SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162767
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147667
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Interior SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162669
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Interior SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162670
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Litoral Vale do Parnaíba FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Litoral Vale do Parnaíba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162668
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Litoral Vale do Parnaíba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Litoral Vale do Parnaíba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162667
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Manaus HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83465
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Manaus SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147668
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169517
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Minas HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147660
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152650
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139116
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83309
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83612
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Paranaíba de Uberlândia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/247611
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Paranaíba de Uberlândia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162762
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83678
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162666
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162969
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/157157
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RJ HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147664
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163031
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165435
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147665
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162770
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SIC TV Rondônia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SIC TV Rondônia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83696
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SIC TV Rondônia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SIC TV Rondônia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162763
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SicTV RO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SicTV RO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163608
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://i.imgur.com/LzwVYs3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Record SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151036
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162663
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Record SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83430
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83468
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SP HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147658
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83613
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record SP SD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147657
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV MT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record TV MT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83496
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record TV Vila Real FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83804
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Record",Record TV Vila Real HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83520
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="https://i.imgur.com/wJQh6qs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Red Bull TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/70206
+#EXTINF:-1 tvg-id="Rede Boas Novas" tvg-name="Rede Boas Novas" tvg-logo="https://i.imgur.com/ncXM75m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Boas Novas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163040
+#EXTINF:-1 tvg-id="AE" tvg-name="Rede Brasil de Televisão SD" tvg-logo="https://i.imgur.com/zqMVH75.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede Brasil de Televisão SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165442
+#EXTINF:-1 tvg-id="Rede Familia" tvg-name="Rede Família FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redefamilia.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Família FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162695
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-gospel_m.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Gospel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/184543
+#EXTINF:-1 tvg-id="Rede Super de TelevisÃ£o" tvg-name="Rede Super FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/redesuper.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Super FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162677
+#EXTINF:-1 tvg-id="Rede Super de TelevisÃ£o" tvg-name="Rede Super HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/redesuper.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Super HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162555
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Rede Século 21 FHD" tvg-logo="https://i.imgur.com/GXFgGjy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Século 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152925
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV 4K" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Rede TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151051
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV Brasília FHD" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV Brasília FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140896
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV Brasília HD" tvg-logo="https://i.imgur.com/7DGORKn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140897
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140652
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147673
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Rede TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83413
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83253
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147674
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Rede TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83616
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida FHD" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Vida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162724
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida FHD [Alt]" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Vida FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140898
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida FHD [H265]" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Rede Vida FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163280
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162725
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD [Alt]" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Vida HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83617
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida SD" tvg-logo="https://i.imgur.com/JUW4nAD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162726
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT FHD [Alt]" tvg-logo="https://i.imgur.com/sKwYVdn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",RIT FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147675
+#EXTINF:-1 tvg-id="Sabor e Arte" tvg-name="Sabor e Arte FHD [Alt]" tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Sabor e Arte FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169527
+#EXTINF:-1 tvg-id="Sabor e Arte" tvg-name="Sabor e Arte HD [Alt]" tvg-logo="https://i.imgur.com/IFlHLkw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Sabor e Arte HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147752
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima FHD" tvg-logo="https://i.imgur.com/M1Z42Je.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Santuário de Fátima FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/80635
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169533
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Brasília FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Brasília FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165431
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Brasília HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83474
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147676
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147677
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Interior HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Interior HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169525
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Itapoan FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Itapoan FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162772
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Itapoan HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Itapoan HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162781
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Rede Massa HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT Rede Massa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162848
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83517
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83513
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162797
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162798
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SBT SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151040
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140653
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83476
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169523
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Alterosa MG FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT TV Alterosa MG FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83495
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Alterosa MG HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",SBT TV Alterosa MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142101
+#EXTINF:-1 tvg-id="Shoptime" tvg-name="Shoptime FHD [Alt]" tvg-logo="https://i.imgur.com/vN06UhH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Shoptime FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162946
+#EXTINF:-1 tvg-id="Shoptime" tvg-name="Shoptime HD [Alt]" tvg-logo="https://i.imgur.com/vN06UhH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Shoptime HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147679
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Simone e Simaria [Live das Coleguinhas 1]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136208
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 2 Libras]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Simone e Simaria [Live das Coleguinhas 2 Libras]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136210
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Simone e Simaria [Live das Coleguinhas 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136209
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Pocket Show]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Simone e Simaria [Pocket Show]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136207
+#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Yoki, Live Junina]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Simone e Simaria [Yoki, Live Junina]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136211
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian FHD" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Smithsonian FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162759
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian FHD [Alt]" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Smithsonian FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/127909
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian FHD [H265]" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Smithsonian FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163281
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian HD" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Smithsonian HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83310
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian HD [Alt]" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Smithsonian HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83303
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian SD" tvg-logo="https://i.imgur.com/2CaT5V1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Smithsonian SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162760
+#EXTINF:-1 tvg-id="Space" tvg-name="Space 4K" tvg-logo="https://i.imgur.com/3YX8kyd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Space 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151060
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136803
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Space FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147682
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [H265]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Space FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83361
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83254
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Space HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147683
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83622
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 4K" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SporTV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151042
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83814
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 1 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147688
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [H265]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SporTV 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83416
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83257
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD [Alt]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 1 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147689
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 SD" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83623
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83815
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 2 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147684
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83414
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83255
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alt]" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 2 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147685
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 SD" tvg-logo="https://i.imgur.com/roQsIxI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83624
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83816
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [Alt]" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 3 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147686
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83415
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83256
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alt]" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 3 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147687
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 SD" tvg-logo="https://i.imgur.com/3yk8rsg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | SporTV",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83625
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel 4K" tvg-logo="https://i.imgur.com/eS0695S.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Star Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151057
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel FHD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136793
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel FHD [Alt]" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Star Channel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147555
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel FHD [H265]" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Star Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83346
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel HD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83212
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel HD [Alt]" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Star Channel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147556
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel SD" tvg-logo="https://i.imgur.com/6wJs1Gp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83558
+#EXTINF:-1 tvg-id="EPTV campinas e região" tvg-name="Star+ 1 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163274
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163270
+#EXTINF:-1 tvg-id="SBT" tvg-name="Star+ 3 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163043
+#EXTINF:-1 tvg-id="AE" tvg-name="Star+ 4 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163042
+#EXTINF:-1 tvg-id="Band (rede)" tvg-name="Star+ 5 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165427
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 6 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147998
+#EXTINF:-1 tvg-id="AE" tvg-name="Star+ 7 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83768
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 8 HD" tvg-logo="https://i.imgur.com/Q8n1wbf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | HBO Max e Star+",Star+ 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147995
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136804
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD [Alt]" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Studio Universal FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147690
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Studio Universal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83417
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83258
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD [Alt]" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Studio Universal HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147691
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal SD" tvg-logo="https://i.imgur.com/xWiQpzh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83626
+#EXTINF:-1 tvg-id="AE" tvg-name="SyFy FHD" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139106
+#EXTINF:-1 tvg-id="AE" tvg-name="SyFy FHD [Alt]" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147666
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy FHD [H265]" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",SyFy FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83418
+#EXTINF:-1 tvg-id="AE" tvg-name="SyFy HD" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83259
+#EXTINF:-1 tvg-id="AE" tvg-name="SyFy HD [Alt]" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147653
+#EXTINF:-1 tvg-id="AE" tvg-name="SyFy SD" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83627
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Especial 30 Anos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Só Pra Contrariar [Especial 30 Anos]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136184
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Session 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Só Pra Contrariar [Session 2]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136183
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139105
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD [Alt]" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147694
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD [H265]" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TBS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83419
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83260
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD [Alt]" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147695
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83628
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/XAIdzUc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147709
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM Play FHD" tvg-logo="https://i.imgur.com/kMCalwO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TCM Play FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133315
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/XAIdzUc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147708
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83824
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Action FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147696
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Action FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83420
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83261
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Action HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147697
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action SD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83630
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83828
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Cult FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147698
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Cult FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83362
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83262
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Cult HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147699
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult SD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83631
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83827
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Fun FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147700
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83363
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83263
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Fun HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147701
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun SD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83632
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca 4K" tvg-logo="https://i.imgur.com/b3SJTn8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Pipoca 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151056
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83826
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Pipoca FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147702
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Pipoca FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83421
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83264
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Pipoca HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147703
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca SD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83633
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium 4K" tvg-logo="https://i.imgur.com/HzOElQt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151049
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83823
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Premium FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147704
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Premium FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83364
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83265
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Premium HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147705
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium SD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83634
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83825
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Touch FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147706
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Telecine Touch FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83365
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83266
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Touch HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147707
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch SD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83635
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva HD" tvg-logo="https://i.imgur.com/Da7Srfe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162693
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva SD" tvg-logo="https://i.imgur.com/Da7Srfe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Terra Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147710
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/87317
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC FHD [Alt]" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",TLC FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147713
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC FHD [H265]" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TLC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83422
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83267
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC HD [Alt]" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",TLC HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147714
+#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/wUk3MRw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83637
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151053
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83822
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147715
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TNT FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83423
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83268
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147716
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83638
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series 4K" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151054
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136806
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT Series FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147717
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [H265]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TNT Series FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83366
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83269
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT Series HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147718
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83639
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast FHD" tvg-logo="https://i.imgur.com/1OSiHJi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Tooncast FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/149345
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast HD" tvg-logo="https://i.imgur.com/1OSiHJi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147719
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast SD" tvg-logo="https://i.imgur.com/1OSiHJi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147720
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162662
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD [Alt]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147485
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD [H265]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163283
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147999
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca HD [Alt]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147470
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca SD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162660
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil FHD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Travel Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147366
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Travel Box Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147721
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil HD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Travel Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150168
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil HD [Alt]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Travel Box Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147456
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil FHD [H265]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Travel Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163284
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil SD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162758
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136594
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura [A Última Live - Especial Parrerito]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Trio Parada Dura [A Última Live - Especial Parrerito]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136595
+#EXTINF:-1 tvg-id="truTV" tvg-name="TruTV FHD" tvg-logo="https://i.imgur.com/A3sP35G.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",TruTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147722
+#EXTINF:-1 tvg-id="truTV" tvg-name="TruTV HD" tvg-logo="https://i.imgur.com/A3sP35G.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",TruTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147723
+#EXTINF:-1 tvg-id="truTV" tvg-name="TruTV SD" tvg-logo="https://i.imgur.com/A3sP35G.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",TruTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169529
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida FHD" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162756
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida FHD [Alt]" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Aparecida FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165429
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida FHD [H265]" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TV Aparecida FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83698
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162755
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida HD [Alt]" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Aparecida HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147467
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida SD" tvg-logo="https://i.imgur.com/wMTPrjE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83643
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati HD" tvg-logo="https://i.imgur.com/iHAXVUa.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Aracati HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163038
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil FHD" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162753
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147724
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil HD" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/132026
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil HD [Alt]" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147725
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil SD" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162754
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Camara FHD [Alt]" tvg-logo="https://static.clubsrv.me/logos/canais/tvcamara.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Camara FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147727
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162747
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Cultura FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Cultura FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147498
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TV Cultura FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164572
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162748
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Cultura HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Cultura HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151038
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcultura.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83647
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Diario CE FHD [Alt]" tvg-logo="https://i.imgur.com/3xRSVdC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Diario CE FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147730
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Diario CE HD [Alt]" tvg-logo="https://i.imgur.com/3xRSVdC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Diario CE HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147731
+#EXTINF:-1 tvg-id="tv diario CE" tvg-name="TV Diário do Sertão HD" tvg-logo="https://i.imgur.com/3xRSVdC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Diário do Sertão HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/141025
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola FHD [Alt]" tvg-logo="https://i.imgur.com/ZSusL7O.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Escola FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147732
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola SD" tvg-logo="https://i.imgur.com/ZSusL7O.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Escola SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/165443
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar SD" tvg-logo="https://i.imgur.com/BhQrdsu.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Evangelizar SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83673
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Gazeta FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151052
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Gazeta FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151034
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta HD SP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Gazeta HD SP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83454
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Gazeta HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164697
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Justiça HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvjustica.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Justiça HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/183762
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo FHD" tvg-logo="https://i.imgur.com/gHzJ9lw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Novo Tempo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162780
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo FHD [Alt]" tvg-logo="https://i.imgur.com/gHzJ9lw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Novo Tempo FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147734
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo HD" tvg-logo="https://i.imgur.com/gHzJ9lw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83311
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo HD [Alt]" tvg-logo="https://i.imgur.com/gHzJ9lw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Novo Tempo HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/7009
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo SD" tvg-logo="https://i.imgur.com/gHzJ9lw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83665
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",TV NSports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83295
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",TV NSports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83296
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 3 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",TV NSports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147481
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 4 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",TV NSports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83703
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno FHD" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Pai Eterno FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162727
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Pai Eterno FHD [Alt]" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Pai Eterno FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147735
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno HD" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162728
+#EXTINF:-1 tvg-id="AE" tvg-name="TV Pai Eterno HD [Alt]" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Pai Eterno HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83473
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno SD" tvg-logo="https://i.imgur.com/RD5wb8q.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",TV Pai Eterno SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162729
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162738
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum FHD [Alt]" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",TV Ra Tim Bum FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147736
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum FHD [H265]" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",TV Ra Tim Bum FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163278
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83272
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum HD [Alt]" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",TV Ra Tim Bum HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147737
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://i.imgur.com/owbJW6i.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83650
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado HD" tvg-logo="https://i.imgur.com/GOIHYx5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Senado HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/149353
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado SD" tvg-logo="https://i.imgur.com/GOIHYx5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/195183
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado SD [Alt]" tvg-logo="https://i.imgur.com/GOIHYx5.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TV Senado SD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147738
+#EXTINF:-1 tvg-id="TVE Brasil" tvg-name="TVE Brasil SD" tvg-logo="https://i.imgur.com/FCyfSXl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",TVE Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169516
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://i.imgur.com/CroLqTL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",UK: Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/164594
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV FHD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Universal Channel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136805
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV FHD [Alt]" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Universal Channel TV FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147740
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV FHD [H265]" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Universal Channel TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83427
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV HD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Universal Channel TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83274
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV HD [Alt]" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Universal Channel TV HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147741
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal Channel TV SD" tvg-logo="https://i.imgur.com/I3rWt0w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Universal Channel TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83664
+#EXTINF:-1 tvg-id="US: TELEMUNDO NEW YORK" tvg-name="US: Telemundo NY New York" tvg-logo="" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | USA",US: Telemundo NY New York
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/146920
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 Itália FHD" tvg-logo="https://i.imgur.com/3cVeYH2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",VH1 Itália FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136711
+#EXTINF:-1 tvg-id="" tvg-name="VillaMix em Casa [Só Modão]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",VillaMix em Casa [Só Modão]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136593
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/139114
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD [Alt]" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Viva FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147744
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD [H265]" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Viva FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/163277
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83276
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD [Alt]" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Viva HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147745
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva SD" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83659
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136807
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD [Alt]" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Warner Channel FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147746
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD [H265]" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",Warner Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83428
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83277
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD [Alt]" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Warner Channel HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147747
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel SD" tvg-logo="https://i.imgur.com/NHzIHWA.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83660
+#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadão e Raça Negra [Skol Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Wesley Safadão e Raça Negra [Skol Sunset]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136182
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo FHD" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",WooHoo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147357
+#EXTINF:-1 tvg-id="AE" tvg-name="Woohoo FHD [Alt]" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Woohoo FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147748
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="WooHoo FHD [H265]" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",WooHoo FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83429
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo HD" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",WooHoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/150161
+#EXTINF:-1 tvg-id="AE" tvg-name="Woohoo HD [Alt]" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",Woohoo HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142028
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo SD" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Variedades",WooHoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83661
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 01" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",X-Men 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133416
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",X-Men 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133417
+#EXTINF:-1 tvg-id="" tvg-name="Xand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="https://i.imgur.com/14Np9Lb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Xand Avião e os Barões da Pisadinha [Live Oficial]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/136181
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="Zoomoo FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/zoomoo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Zoomoo FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147531
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="Zoomoo HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/zoomoo.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Zoomoo HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83526
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barretão]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Zé Neto e Cristiano [Live Barretão]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133627
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barzinho Aleatório]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Zé Neto e Cristiano [Live Barzinho Aleatório]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133625
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Dia da Cerveja]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Zé Neto e Cristiano [Live Dia da Cerveja]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133626
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas" tvg-logo="https://i.imgur.com/72lyNdI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83751
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa do Mickey Mouse" tvg-logo="https://i.imgur.com/g38NRFw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] A Casa do Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140984
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 01" tvg-logo="https://pbs.twimg.com/profile_images/885884436012822529/SNd15R7Q_400x400.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] A Culpa é do Cabral 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151375
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 02" tvg-logo="https://pbs.twimg.com/profile_images/885884436012822529/SNd15R7Q_400x400.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] A Culpa é do Cabral 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151376
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 03" tvg-logo="https://pbs.twimg.com/profile_images/885884436012822529/SNd15R7Q_400x400.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] A Culpa é do Cabral 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/151377
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Feiticeira" tvg-logo="https://i.imgur.com/JYDus3O.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] A Feiticeira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83758
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Grande Familia 1" tvg-logo="https://i.imgur.com/5O1S1I3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] A Grande Familia 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133411
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Grande Familia 2" tvg-logo="https://i.imgur.com/5O1S1I3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] A Grande Familia 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133412
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] A Guarda do Leão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83684
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] A Mansão Foster
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/544
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] A Roda do Ônibus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62967
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/KbTJCL3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Aladdin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83674
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Angry Birds
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83702
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Apenas um Show
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62978
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] As Aventuras do Batman 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] As Aventuras do Batman 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143798
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83675
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Auto da Comparecida" tvg-logo="https://i.imgur.com/cVrlx8U.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Auto da Comparecida
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62998
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83240
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] BEN 10 - 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140811
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] BEN 10 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62972
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bita e os Animais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83753
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bob Esponja 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bob o Trem 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62983
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bob o Trem 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147829
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bob Zoom 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147830
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Bob Zoom 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62965
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Booba 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147831
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Booba 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62952
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Caillou
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62956
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cascão A Turma da Monica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62964
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83719
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152888
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152889
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152890
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152891
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Caverna do Dragão 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62995
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin 1" tvg-logo="https://i.imgur.com/IHMrdOR.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Chapolin 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62975
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves 1" tvg-logo="https://i.imgur.com/dP6qZEi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Chaves 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133414
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Chaves Desenho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83683
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Clarêncio, O Otimista
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156574
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1 " tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Coragem o Cão Covarde 1 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83679
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Coragem o Cão Covarde 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62987
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Corrida Maluca 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83759
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Corrida Maluca 1968
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148014
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Corrida Maluca 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148277
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Corrida Maluca 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62974
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon 15º Aniversário
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153989
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon Adventure Zero Two
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon Frontier
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon Savers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Digimon Tamers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153995
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 01" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 02" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152905
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 03" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152906
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 04" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152907
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 05" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152908
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 06" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152909
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 07" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152910
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 08" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152911
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 09" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152912
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 10" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152913
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 11" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152914
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 12" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Dois Homens e Meio 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152915
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dora Aventureira 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140789
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dora Aventureira 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89548
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Doug 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83689
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Doug 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83690
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/153999
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Heroes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152661
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Super 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83692
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Super 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152662
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Super 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152663
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Z 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83691
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball Z 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152670
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Dragon Ball [Filmes 1]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152664
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Du, Dudu e Edu
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Em Busca do Vale Encantado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62985
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Escolinha do Professor Raimundo" tvg-logo="https://i.imgur.com/C7K29mY.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62951
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Eu a Patroa e as Crianças 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62986
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 2" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Eu a Patroa e as Crianças 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83693
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 3" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Eu a Patroa e as Crianças 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152667
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 4" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Eu a Patroa e as Crianças 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152668
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 5" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Eu a Patroa e as Crianças 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Formiga Atômica" tvg-logo="https://i.imgur.com/m8RMFpU.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Formiga Atômica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83694
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Freakazoid" tvg-logo="https://i.imgur.com/WmGmzQs.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Freakazoid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162899
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 01" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89538
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 02" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89539
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 03" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89540
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 04" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89541
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 05" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89542
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 06" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89543
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 07" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89544
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 08" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89545
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 09" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89546
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 10" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Friends 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/89547
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Futurama
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83695
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Galo e a Pata
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62968
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Garfield 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143799
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Garfield 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143805
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Garfield 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/70685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] He-Man 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83697
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] He-Man 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] He-Man 2002
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] He-Man 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156043
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Homem Aranha Animado 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83700
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Homem Aranha Animado 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Homem de Ferro 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83701
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Homem de Ferro 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142121
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Homem de Ferro 1994
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/142122
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Irmão do Jorel 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Irmão do Jorel 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/155389
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Jacarelvis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62984
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Jiraya
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/122179
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Johnny Bravo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Johnny Test
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Kenan e Kel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83707
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Larva Chiclete
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/63003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Leo O-Caminhão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Liga da Justica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62988
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Luluzinha 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83708
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Luluzinha 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62997
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Masha e o Urso
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Medabots
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83709
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] MegaMan
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83710
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Moranguinho 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147946
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Moranguinho 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/63005
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Naruto
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83713
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] O Clube das Winx
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Oggy e as Baratas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62955
+#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] One Piece East Blue
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162898
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Flinstones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83720
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Jetson
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143800
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143801
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143802
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143803
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143804
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Patos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Simpsons 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83721
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Simpsons 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147155
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Simpsons 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147156
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Os Simpsons 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147170
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões " tvg-logo="https://i.imgur.com/FMRw6QK.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Os Trapalhões 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/263
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147949
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62990
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patati e Patata 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patati e Patata 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147947
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patati e Patata 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/264
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pato Donald
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62991
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patrulha Canina 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169538
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patrulha Canina 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169536
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patrulha Canina 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/169535
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patrulha Canina 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83733
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Patrulha Canina 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83723
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83724
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pequena Sereia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147948
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pernalonga 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/146926
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pernalonga 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/146927
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pica Pau 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83727
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pica Pau 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148200
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pica Pau 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62973
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pink-e-Cerebro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83728
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147945
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62963
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] PJ Masks
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62958
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pocoyo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83722
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pokemon 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83729
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Pokemon 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Popeye
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/141023
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Popeye 75th
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/154892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 01" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] Porta dos Fundos 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140705
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 02" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] Porta dos Fundos 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140813
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Princesa e o Dragão
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62982
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Rambo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83731
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Reino Gelado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/63001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rick And Morty 1" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Rick And Morty 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/137991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rick And Morty 2" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Rick And Morty 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/137992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rick And Morty 3" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Rick And Morty 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/137993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rick And Morty 4" tvg-logo="https://i.imgur.com/FjfcFOO.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Rick And Morty 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133413
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Rimas de Berçário
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62966
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Sakura Card
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/280
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Samurai Warriors
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/269
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Samurai-X 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147951
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Samurai-X 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143686
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62976
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Scooby-Doo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83732
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Shaman King
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/270
+#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] She-ra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/63002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Shinzo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/281
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Show da Luna
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62957
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Shurato
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/271
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Simon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/63000
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 01" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133433
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 02" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133435
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 03" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133436
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 04" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133437
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 05" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133438
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 06" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133439
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 07" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133440
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 08" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133441
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 09" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133442
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville 10" tvg-logo="https://i.imgur.com/oM1UD3B.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Smallville 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133443
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] South Park 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83735
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] South Park 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152554
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] South Park 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152555
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Speed-Racer
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/265
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Steven Universe
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83736
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Street Fighter 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162896
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Choque 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Choque 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/156748
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Mario Bros 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/162901
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Mario Bros 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/273
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Wings 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83718
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Super Wings 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83704
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/143687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Superman Animado 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83737
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Superman Animado 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152553
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 01" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133419
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 02" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133420
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 03" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133421
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 04" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133422
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 05" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133423
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 06" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133424
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 07" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133425
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 08" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133426
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 09" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133427
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 10" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133428
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 11" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133429
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 12" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133430
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 13" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133431
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural 14" tvg-logo="https://i.imgur.com/vOsyuK2.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Supernatural 14
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/133432
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Tartarugas Ninjas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83738
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Team-Galaxy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/266
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] Thiago Ventura
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/140704
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Thundercats
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83739
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Timão e Pumba 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/274
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Timão e Pumba 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83740
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147171
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147172
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 3" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147173
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 4" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/147174
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 5" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152571
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 6" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152572
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 7" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152573
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 8" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Todo Mundo Odeia o Chris 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152574
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Tom & Jerry
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83742
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Três Espiãs Demais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83743
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148201
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Turma do Pateta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62989
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ultraman" tvg-logo="https://i.imgur.com/ZCIzLgu.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Ultraman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/267
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148260
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 3" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148261
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 4" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148262
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 5" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148263
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 6" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Um Maluco no Pedaço 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148264
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Uma Família da Pesada 1" tvg-logo="https://i.imgur.com/a4GylOQ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Uma Família da Pesada 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83746
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148274
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 1" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83755
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 2" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152557
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 3" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152558
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 5" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152560
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 6" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152561
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 7" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152562
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 8" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Vai que Cola 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152563
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Wally Gator
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/276
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Wolverine e os X-Men
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152887
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] X-Men 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] X-Men 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Séries",[24H] Xena
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83748
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/148202
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/62953
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Delegado Dacunha 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152321
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 02" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Delegado Dacunha 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152322
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 03" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Delegado Dacunha 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152323
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 04" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Delegado Dacunha 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152324
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Investigação Criminal" tvg-logo="https://i.imgur.com/Zyxwj1j.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Investigação Criminal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152309
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Policia Militar" tvg-logo="https://i.imgur.com/4w1cvok.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",[24H] YT-Policia Militar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/152319
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YU-YU-Hakusho" tvg-logo="https://i.imgur.com/31FLn06.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] YU-YU-Hakusho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/83750
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zatch Bell" tvg-logo="https://i.imgur.com/2mdIzFg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Zatch Bell
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/279
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Desenhos",[24H] Zé Buscapé
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/278
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND MG HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",BAND MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/260033
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Volei Brasil 1 HD" tvg-logo="https://i.imgur.com/q8WLYRP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Volei Brasil 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/176714
+#EXTINF:-1 tvg-id="Warner" tvg-name="Volei Brasil 2 HD" tvg-logo="https://i.imgur.com/q8WLYRP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR] Canais | Esportes PPV",Volei Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.net:80/RonaldoRodrigues/Next215152/192964
